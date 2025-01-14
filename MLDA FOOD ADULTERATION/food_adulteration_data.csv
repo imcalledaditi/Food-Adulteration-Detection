@@ -1,0 +1,1001 @@
+adulteration_id,product_name,brand,category,adulterant,detection_date,detection_method,severity,health_risk,action_taken
+1,Butter,BrandB,Meat,Artificial sweeteners,5/11/2024,Microbiological Analysis,Moderate,Low,Product Recall
+2,Chicken,BrandC,Dairy,Coloring agents,5/23/2024,Sensory Evaluation,Severe,Medium,Warning Issued
+3,Yogurt,BrandC,Meat,Artificial sweeteners,2/17/2024,Sensory Evaluation,Severe,High,Investigation Launched
+4,Wine,BrandB,Beverages,Coloring agents,5/16/2024,Spectroscopy,Minor,Medium,Product Recall
+5,Bread,BrandD,Dairy,Water,6/6/2024,Chemical Analysis,Severe,Medium,Warning Issued
+6,Wine,BrandD,Dairy,Melamine,5/12/2024,Microbiological Analysis,Severe,Medium,Investigation Launched
+7,Beef,BrandC,Meat,Melamine,4/1/2024,Chemical Analysis,Minor,Medium,Investigation Launched
+8,Juice,BrandD,Beverages,Melamine,3/18/2024,Chemical Analysis,Moderate,High,Fine Imposed
+9,Chicken,BrandC,Meat,Artificial sweeteners,6/14/2024,Microbiological Analysis,Minor,Low,Investigation Launched
+10,Milk,BrandA,Bakery,Melamine,4/23/2024,Spectroscopy,Moderate,Medium,Fine Imposed
+11,Cheese,BrandA,Beverages,Coloring agents,2/25/2024,Sensory Evaluation,Moderate,Low,Investigation Launched
+12,Milk,BrandA,Condiments,Melamine,3/7/2024,Sensory Evaluation,Moderate,Low,Warning Issued
+13,Bread,BrandC,Dairy,Chalk,4/1/2024,Chemical Analysis,Minor,High,Product Recall
+14,Beef,BrandA,Meat,Chalk,6/13/2024,Chemical Analysis,Moderate,Medium,Warning Issued
+15,Juice,BrandA,Condiments,Melamine,4/13/2024,Sensory Evaluation,Severe,Low,Investigation Launched
+16,Honey,BrandB,Bakery,Melamine,5/13/2024,Spectroscopy,Minor,Medium,Investigation Launched
+17,Wine,BrandE,Beverages,Melamine,4/7/2024,Chemical Analysis,Severe,Low,Product Recall
+18,Yogurt,BrandB,Bakery,Chalk,6/10/2024,Spectroscopy,Moderate,High,Investigation Launched
+19,Honey,BrandE,Beverages,Melamine,3/3/2024,Spectroscopy,Minor,Medium,Fine Imposed
+20,Honey,BrandC,Condiments,Coloring agents,4/19/2024,Microbiological Analysis,Moderate,Low,Investigation Launched
+21,Wine,BrandE,Dairy,Coloring agents,4/19/2024,Spectroscopy,Moderate,Medium,Fine Imposed
+22,Cheese,BrandA,Dairy,Melamine,3/18/2024,Microbiological Analysis,Moderate,High,Fine Imposed
+23,Wine,BrandD,Beverages,Coloring agents,2/5/2024,Spectroscopy,Severe,Low,Product Recall
+24,Milk,BrandE,Meat,Melamine,3/17/2024,Sensory Evaluation,Minor,Medium,Warning Issued
+25,Juice,BrandC,Dairy,Coloring agents,2/26/2024,Chemical Analysis,Moderate,High,Investigation Launched
+26,Honey,BrandE,Meat,Chalk,6/14/2024,Chemical Analysis,Severe,High,Warning Issued
+27,Chicken,BrandE,Condiments,Coloring agents,3/20/2024,Spectroscopy,Minor,Low,Warning Issued
+28,Cheese,BrandC,Dairy,Chalk,3/25/2024,Sensory Evaluation,Moderate,Medium,Investigation Launched
+29,Beef,BrandC,Meat,Melamine,5/19/2024,Spectroscopy,Moderate,High,Product Recall
+30,Beef,BrandE,Meat,Melamine,5/30/2024,Spectroscopy,Moderate,Medium,Product Recall
+31,Chicken,BrandA,Condiments,Water,1/2/2024,Microbiological Analysis,Minor,Medium,Fine Imposed
+32,Honey,BrandB,Bakery,Melamine,6/16/2024,Spectroscopy,Moderate,High,Fine Imposed
+33,Yogurt,BrandE,Beverages,Chalk,6/2/2024,Microbiological Analysis,Moderate,Medium,Investigation Launched
+34,Honey,BrandD,Bakery,Water,6/5/2024,Spectroscopy,Severe,High,Fine Imposed
+35,Juice,BrandE,Meat,Water,6/9/2024,Spectroscopy,Moderate,Low,Product Recall
+36,Honey,BrandE,Beverages,Melamine,1/31/2024,Microbiological Analysis,Severe,Medium,Warning Issued
+37,Yogurt,BrandA,Condiments,Water,2/19/2024,Microbiological Analysis,Moderate,High,Investigation Launched
+38,Honey,BrandA,Meat,Artificial sweeteners,5/3/2024,Spectroscopy,Severe,Low,Warning Issued
+39,Cheese,BrandD,Condiments,Coloring agents,1/20/2024,Spectroscopy,Minor,High,Product Recall
+40,Yogurt,BrandC,Beverages,Melamine,5/15/2024,Microbiological Analysis,Minor,Medium,Fine Imposed
+41,Juice,BrandD,Meat,Chalk,6/9/2024,Chemical Analysis,Minor,High,Product Recall
+42,Milk,BrandD,Bakery,Artificial sweeteners,4/9/2024,Microbiological Analysis,Severe,Low,Investigation Launched
+43,Bread,BrandC,Meat,Melamine,3/29/2024,Sensory Evaluation,Minor,High,Fine Imposed
+44,Milk,BrandA,Bakery,Melamine,5/2/2024,Spectroscopy,Severe,High,Product Recall
+45,Cheese,BrandC,Meat,Melamine,2/25/2024,Chemical Analysis,Severe,Medium,Fine Imposed
+46,Beef,BrandC,Condiments,Melamine,1/13/2024,Sensory Evaluation,Minor,Low,Investigation Launched
+47,Milk,BrandA,Bakery,Water,6/17/2024,Sensory Evaluation,Moderate,High,Warning Issued
+48,Milk,BrandB,Condiments,Chalk,3/12/2024,Microbiological Analysis,Minor,Low,Investigation Launched
+49,Juice,BrandB,Bakery,Coloring agents,3/1/2024,Chemical Analysis,Moderate,Medium,Product Recall
+50,Butter,BrandE,Beverages,Chalk,6/23/2024,Chemical Analysis,Minor,Low,Product Recall
+51,Yogurt,BrandA,Dairy,Artificial sweeteners,6/8/2024,Microbiological Analysis,Minor,Medium,Warning Issued
+52,Yogurt,BrandC,Dairy,Melamine,2/12/2024,Spectroscopy,Severe,Medium,Warning Issued
+53,Cheese,BrandB,Bakery,Coloring agents,6/2/2024,Spectroscopy,Moderate,High,Investigation Launched
+54,Chicken,BrandE,Condiments,Melamine,3/17/2024,Spectroscopy,Severe,Low,Fine Imposed
+55,Yogurt,BrandA,Bakery,Coloring agents,5/24/2024,Microbiological Analysis,Minor,Low,Product Recall
+56,Milk,BrandD,Condiments,Artificial sweeteners,1/16/2024,Sensory Evaluation,Minor,Low,Product Recall
+57,Wine,BrandA,Bakery,Water,5/21/2024,Sensory Evaluation,Moderate,Medium,Warning Issued
+58,Butter,BrandA,Bakery,Melamine,6/2/2024,Chemical Analysis,Moderate,Medium,Warning Issued
+59,Wine,BrandA,Condiments,Chalk,2/6/2024,Spectroscopy,Moderate,Low,Warning Issued
+60,Bread,BrandD,Bakery,Chalk,3/26/2024,Sensory Evaluation,Moderate,Medium,Investigation Launched
+61,Yogurt,BrandA,Condiments,Coloring agents,5/24/2024,Sensory Evaluation,Minor,Medium,Investigation Launched
+62,Butter,BrandB,Condiments,Chalk,6/7/2024,Microbiological Analysis,Minor,High,Fine Imposed
+63,Milk,BrandC,Condiments,Melamine,5/27/2024,Microbiological Analysis,Minor,Medium,Investigation Launched
+64,Butter,BrandD,Meat,Water,5/7/2024,Spectroscopy,Minor,Low,Investigation Launched
+65,Honey,BrandE,Dairy,Chalk,1/12/2024,Microbiological Analysis,Minor,Medium,Warning Issued
+66,Chicken,BrandD,Dairy,Artificial sweeteners,1/8/2024,Spectroscopy,Minor,Medium,Warning Issued
+67,Wine,BrandE,Meat,Coloring agents,1/27/2024,Spectroscopy,Minor,Low,Fine Imposed
+68,Cheese,BrandC,Meat,Coloring agents,1/31/2024,Sensory Evaluation,Moderate,Low,Investigation Launched
+69,Juice,BrandD,Beverages,Chalk,5/1/2024,Chemical Analysis,Minor,Low,Product Recall
+70,Chicken,BrandE,Meat,Artificial sweeteners,3/20/2024,Microbiological Analysis,Moderate,Medium,Investigation Launched
+71,Chicken,BrandB,Dairy,Coloring agents,1/17/2024,Microbiological Analysis,Severe,Low,Fine Imposed
+72,Yogurt,BrandD,Condiments,Artificial sweeteners,5/23/2024,Microbiological Analysis,Moderate,High,Warning Issued
+73,Wine,BrandD,Beverages,Water,6/1/2024,Spectroscopy,Minor,Low,Fine Imposed
+74,Juice,BrandE,Condiments,Artificial sweeteners,5/21/2024,Sensory Evaluation,Severe,High,Product Recall
+75,Bread,BrandC,Condiments,Water,5/6/2024,Sensory Evaluation,Severe,Low,Investigation Launched
+76,Honey,BrandA,Meat,Melamine,4/11/2024,Sensory Evaluation,Minor,High,Warning Issued
+77,Bread,BrandE,Beverages,Chalk,5/28/2024,Spectroscopy,Severe,High,Fine Imposed
+78,Cheese,BrandC,Condiments,Water,3/3/2024,Sensory Evaluation,Minor,Medium,Product Recall
+79,Cheese,BrandC,Dairy,Chalk,4/24/2024,Sensory Evaluation,Severe,High,Product Recall
+80,Juice,BrandB,Condiments,Coloring agents,5/30/2024,Microbiological Analysis,Moderate,High,Product Recall
+81,Bread,BrandC,Condiments,Chalk,1/10/2024,Spectroscopy,Minor,High,Fine Imposed
+82,Yogurt,BrandE,Meat,Water,1/14/2024,Spectroscopy,Minor,Medium,Warning Issued
+83,Milk,BrandC,Condiments,Artificial sweeteners,4/26/2024,Chemical Analysis,Moderate,High,Product Recall
+84,Chicken,BrandC,Bakery,Chalk,3/7/2024,Sensory Evaluation,Moderate,Medium,Product Recall
+85,Bread,BrandD,Dairy,Artificial sweeteners,4/30/2024,Chemical Analysis,Moderate,Medium,Investigation Launched
+86,Chicken,BrandB,Dairy,Coloring agents,6/5/2024,Spectroscopy,Minor,High,Investigation Launched
+87,Bread,BrandC,Dairy,Melamine,5/27/2024,Microbiological Analysis,Minor,High,Fine Imposed
+88,Honey,BrandC,Condiments,Artificial sweeteners,3/30/2024,Spectroscopy,Severe,Medium,Investigation Launched
+89,Cheese,BrandD,Dairy,Melamine,2/26/2024,Sensory Evaluation,Minor,Medium,Fine Imposed
+90,Juice,BrandE,Meat,Chalk,2/25/2024,Microbiological Analysis,Severe,High,Investigation Launched
+91,Chicken,BrandB,Bakery,Chalk,2/10/2024,Spectroscopy,Minor,Medium,Warning Issued
+92,Bread,BrandA,Condiments,Artificial sweeteners,2/6/2024,Spectroscopy,Minor,Medium,Product Recall
+93,Yogurt,BrandC,Meat,Artificial sweeteners,2/7/2024,Chemical Analysis,Minor,Low,Investigation Launched
+94,Juice,BrandC,Dairy,Water,3/18/2024,Microbiological Analysis,Minor,High,Investigation Launched
+95,Butter,BrandD,Dairy,Melamine,6/3/2024,Chemical Analysis,Severe,Medium,Product Recall
+96,Butter,BrandE,Meat,Coloring agents,1/12/2024,Microbiological Analysis,Moderate,Low,Investigation Launched
+97,Wine,BrandE,Bakery,Artificial sweeteners,3/2/2024,Chemical Analysis,Minor,High,Warning Issued
+98,Beef,BrandB,Beverages,Chalk,5/1/2024,Chemical Analysis,Moderate,Medium,Fine Imposed
+99,Juice,BrandD,Bakery,Artificial sweeteners,5/8/2024,Sensory Evaluation,Minor,High,Product Recall
+100,Milk,BrandB,Condiments,Artificial sweeteners,1/29/2024,Chemical Analysis,Severe,Medium,Warning Issued
+101,Milk,BrandD,Beverages,Water,1/30/2024,Sensory Evaluation,Severe,High,Investigation Launched
+102,Juice,BrandC,Meat,Chalk,5/1/2024,Chemical Analysis,Severe,Medium,Investigation Launched
+103,Butter,BrandB,Dairy,Water,6/1/2024,Spectroscopy,Moderate,High,Warning Issued
+104,Bread,BrandA,Meat,Artificial sweeteners,1/12/2024,Microbiological Analysis,Severe,Medium,Investigation Launched
+105,Milk,BrandA,Dairy,Water,5/13/2024,Sensory Evaluation,Severe,Medium,Warning Issued
+106,Milk,BrandD,Meat,Artificial sweeteners,1/10/2024,Microbiological Analysis,Minor,Medium,Warning Issued
+107,Wine,BrandB,Meat,Melamine,5/9/2024,Spectroscopy,Severe,Low,Investigation Launched
+108,Cheese,BrandD,Beverages,Melamine,5/29/2024,Microbiological Analysis,Minor,Low,Investigation Launched
+109,Wine,BrandC,Beverages,Artificial sweeteners,6/7/2024,Spectroscopy,Minor,Medium,Investigation Launched
+110,Butter,BrandC,Bakery,Water,3/13/2024,Microbiological Analysis,Severe,High,Product Recall
+111,Chicken,BrandD,Meat,Coloring agents,1/16/2024,Sensory Evaluation,Moderate,Low,Product Recall
+112,Yogurt,BrandC,Bakery,Coloring agents,1/27/2024,Chemical Analysis,Severe,Medium,Warning Issued
+113,Beef,BrandC,Beverages,Melamine,1/5/2024,Microbiological Analysis,Severe,High,Investigation Launched
+114,Cheese,BrandE,Condiments,Chalk,4/16/2024,Sensory Evaluation,Moderate,High,Warning Issued
+115,Butter,BrandC,Condiments,Water,5/26/2024,Chemical Analysis,Severe,Low,Warning Issued
+116,Cheese,BrandC,Dairy,Coloring agents,1/15/2024,Microbiological Analysis,Severe,Low,Fine Imposed
+117,Wine,BrandA,Condiments,Water,2/15/2024,Microbiological Analysis,Minor,Low,Warning Issued
+118,Chicken,BrandB,Meat,Water,5/2/2024,Microbiological Analysis,Minor,Medium,Fine Imposed
+119,Butter,BrandE,Meat,Melamine,4/23/2024,Microbiological Analysis,Minor,Low,Product Recall
+120,Juice,BrandC,Dairy,Water,5/7/2024,Spectroscopy,Minor,Low,Investigation Launched
+121,Chicken,BrandB,Bakery,Melamine,3/5/2024,Chemical Analysis,Moderate,Medium,Product Recall
+122,Wine,BrandD,Condiments,Coloring agents,5/19/2024,Microbiological Analysis,Severe,High,Investigation Launched
+123,Butter,BrandE,Meat,Chalk,2/25/2024,Microbiological Analysis,Moderate,High,Investigation Launched
+124,Juice,BrandC,Bakery,Artificial sweeteners,5/7/2024,Spectroscopy,Minor,High,Warning Issued
+125,Wine,BrandC,Dairy,Melamine,5/11/2024,Spectroscopy,Severe,Low,Fine Imposed
+126,Beef,BrandC,Dairy,Water,6/6/2024,Spectroscopy,Severe,High,Warning Issued
+127,Juice,BrandC,Bakery,Coloring agents,2/12/2024,Microbiological Analysis,Moderate,Low,Product Recall
+128,Yogurt,BrandD,Condiments,Melamine,1/10/2024,Spectroscopy,Moderate,High,Warning Issued
+129,Juice,BrandB,Bakery,Chalk,3/8/2024,Spectroscopy,Severe,High,Warning Issued
+130,Bread,BrandB,Condiments,Melamine,2/25/2024,Microbiological Analysis,Moderate,High,Product Recall
+131,Beef,BrandC,Bakery,Melamine,4/27/2024,Microbiological Analysis,Severe,Low,Warning Issued
+132,Beef,BrandD,Dairy,Coloring agents,6/3/2024,Spectroscopy,Severe,Low,Product Recall
+133,Juice,BrandC,Beverages,Coloring agents,5/14/2024,Microbiological Analysis,Moderate,Medium,Product Recall
+134,Bread,BrandE,Meat,Melamine,1/3/2024,Chemical Analysis,Moderate,Low,Warning Issued
+135,Beef,BrandD,Meat,Melamine,5/2/2024,Spectroscopy,Severe,Medium,Product Recall
+136,Beef,BrandD,Condiments,Water,1/17/2024,Spectroscopy,Minor,High,Investigation Launched
+137,Butter,BrandA,Condiments,Water,1/14/2024,Sensory Evaluation,Minor,Medium,Product Recall
+138,Milk,BrandA,Beverages,Melamine,6/15/2024,Chemical Analysis,Minor,Medium,Investigation Launched
+139,Cheese,BrandD,Bakery,Coloring agents,1/6/2024,Sensory Evaluation,Minor,Medium,Product Recall
+140,Honey,BrandB,Condiments,Coloring agents,1/24/2024,Chemical Analysis,Minor,Low,Product Recall
+141,Cheese,BrandE,Beverages,Chalk,3/8/2024,Spectroscopy,Minor,High,Product Recall
+142,Honey,BrandA,Beverages,Melamine,2/22/2024,Chemical Analysis,Moderate,High,Warning Issued
+143,Butter,BrandA,Dairy,Coloring agents,6/6/2024,Sensory Evaluation,Minor,High,Fine Imposed
+144,Chicken,BrandB,Meat,Melamine,6/11/2024,Spectroscopy,Moderate,Low,Investigation Launched
+145,Juice,BrandB,Bakery,Coloring agents,3/26/2024,Chemical Analysis,Moderate,Medium,Warning Issued
+146,Bread,BrandD,Dairy,Artificial sweeteners,5/15/2024,Spectroscopy,Severe,Low,Fine Imposed
+147,Yogurt,BrandC,Bakery,Water,5/11/2024,Chemical Analysis,Moderate,Low,Product Recall
+148,Juice,BrandD,Condiments,Artificial sweeteners,4/29/2024,Microbiological Analysis,Minor,High,Product Recall
+149,Chicken,BrandE,Meat,Artificial sweeteners,2/10/2024,Sensory Evaluation,Minor,High,Fine Imposed
+150,Milk,BrandC,Condiments,Coloring agents,4/12/2024,Chemical Analysis,Minor,Low,Product Recall
+151,Cheese,BrandB,Beverages,Melamine,1/31/2024,Chemical Analysis,Moderate,Medium,Investigation Launched
+152,Honey,BrandB,Dairy,Chalk,4/29/2024,Microbiological Analysis,Severe,High,Investigation Launched
+153,Bread,BrandD,Bakery,Chalk,1/28/2024,Spectroscopy,Severe,High,Fine Imposed
+154,Beef,BrandD,Bakery,Water,3/30/2024,Microbiological Analysis,Moderate,High,Fine Imposed
+155,Chicken,BrandA,Bakery,Artificial sweeteners,6/16/2024,Spectroscopy,Moderate,High,Fine Imposed
+156,Chicken,BrandB,Dairy,Chalk,5/28/2024,Chemical Analysis,Minor,Medium,Product Recall
+157,Chicken,BrandD,Bakery,Artificial sweeteners,6/26/2024,Chemical Analysis,Moderate,Low,Warning Issued
+158,Bread,BrandC,Beverages,Artificial sweeteners,5/9/2024,Microbiological Analysis,Severe,Low,Investigation Launched
+159,Butter,BrandC,Meat,Chalk,3/15/2024,Microbiological Analysis,Moderate,Low,Product Recall
+160,Honey,BrandD,Bakery,Melamine,5/9/2024,Spectroscopy,Moderate,Low,Investigation Launched
+161,Milk,BrandD,Meat,Melamine,3/22/2024,Sensory Evaluation,Moderate,High,Product Recall
+162,Wine,BrandD,Bakery,Coloring agents,6/29/2024,Chemical Analysis,Severe,Low,Product Recall
+163,Bread,BrandE,Dairy,Melamine,3/10/2024,Microbiological Analysis,Minor,High,Fine Imposed
+164,Honey,BrandD,Bakery,Chalk,1/27/2024,Sensory Evaluation,Severe,Low,Warning Issued
+165,Juice,BrandD,Meat,Coloring agents,5/20/2024,Spectroscopy,Minor,High,Fine Imposed
+166,Juice,BrandC,Meat,Artificial sweeteners,1/14/2024,Chemical Analysis,Moderate,Low,Warning Issued
+167,Butter,BrandD,Beverages,Water,2/16/2024,Spectroscopy,Severe,Medium,Investigation Launched
+168,Bread,BrandA,Beverages,Coloring agents,4/24/2024,Spectroscopy,Moderate,Medium,Investigation Launched
+169,Wine,BrandE,Meat,Melamine,3/26/2024,Microbiological Analysis,Minor,Medium,Warning Issued
+170,Yogurt,BrandA,Meat,Water,6/14/2024,Sensory Evaluation,Severe,Low,Product Recall
+171,Milk,BrandB,Meat,Chalk,4/16/2024,Sensory Evaluation,Minor,Medium,Investigation Launched
+172,Beef,BrandC,Meat,Coloring agents,2/5/2024,Chemical Analysis,Moderate,High,Investigation Launched
+173,Bread,BrandD,Bakery,Water,2/1/2024,Spectroscopy,Severe,Low,Warning Issued
+174,Chicken,BrandD,Bakery,Melamine,6/21/2024,Spectroscopy,Minor,High,Warning Issued
+175,Bread,BrandE,Bakery,Melamine,1/29/2024,Sensory Evaluation,Severe,High,Warning Issued
+176,Chicken,BrandA,Beverages,Coloring agents,1/20/2024,Chemical Analysis,Severe,Low,Warning Issued
+177,Bread,BrandA,Condiments,Chalk,3/28/2024,Sensory Evaluation,Moderate,Low,Investigation Launched
+178,Cheese,BrandD,Dairy,Chalk,3/26/2024,Chemical Analysis,Minor,Low,Fine Imposed
+179,Yogurt,BrandE,Dairy,Water,3/26/2024,Sensory Evaluation,Moderate,Low,Product Recall
+180,Juice,BrandA,Bakery,Artificial sweeteners,2/16/2024,Sensory Evaluation,Moderate,Low,Investigation Launched
+181,Wine,BrandB,Condiments,Artificial sweeteners,2/12/2024,Chemical Analysis,Severe,Medium,Fine Imposed
+182,Juice,BrandE,Bakery,Water,5/28/2024,Microbiological Analysis,Minor,Low,Fine Imposed
+183,Honey,BrandE,Beverages,Water,3/4/2024,Microbiological Analysis,Severe,Medium,Product Recall
+184,Beef,BrandA,Beverages,Chalk,6/13/2024,Spectroscopy,Moderate,Low,Product Recall
+185,Beef,BrandC,Meat,Chalk,3/20/2024,Chemical Analysis,Minor,High,Fine Imposed
+186,Milk,BrandA,Dairy,Chalk,2/10/2024,Microbiological Analysis,Minor,High,Investigation Launched
+187,Chicken,BrandB,Dairy,Chalk,5/15/2024,Spectroscopy,Minor,Medium,Product Recall
+188,Cheese,BrandA,Condiments,Melamine,6/13/2024,Chemical Analysis,Moderate,Low,Investigation Launched
+189,Butter,BrandA,Condiments,Water,5/5/2024,Spectroscopy,Moderate,Low,Warning Issued
+190,Juice,BrandD,Bakery,Chalk,2/27/2024,Spectroscopy,Severe,Low,Warning Issued
+191,Bread,BrandE,Condiments,Artificial sweeteners,1/18/2024,Spectroscopy,Moderate,Medium,Investigation Launched
+192,Milk,BrandC,Meat,Water,6/10/2024,Spectroscopy,Moderate,Medium,Warning Issued
+193,Juice,BrandA,Meat,Artificial sweeteners,4/8/2024,Microbiological Analysis,Moderate,Medium,Fine Imposed
+194,Bread,BrandC,Dairy,Water,5/13/2024,Sensory Evaluation,Severe,Medium,Investigation Launched
+195,Juice,BrandC,Dairy,Coloring agents,3/25/2024,Sensory Evaluation,Minor,Medium,Fine Imposed
+196,Honey,BrandE,Bakery,Chalk,4/9/2024,Chemical Analysis,Minor,Medium,Warning Issued
+197,Cheese,BrandC,Beverages,Coloring agents,4/29/2024,Sensory Evaluation,Moderate,Medium,Product Recall
+198,Wine,BrandC,Beverages,Water,6/13/2024,Chemical Analysis,Severe,High,Warning Issued
+199,Juice,BrandD,Beverages,Chalk,2/2/2024,Sensory Evaluation,Minor,High,Product Recall
+200,Juice,BrandB,Bakery,Artificial sweeteners,6/19/2024,Spectroscopy,Minor,High,Investigation Launched
+201,Chicken,BrandB,Condiments,Water,4/10/2024,Chemical Analysis,Minor,Medium,Fine Imposed
+202,Beef,BrandA,Dairy,Coloring agents,4/1/2024,Chemical Analysis,Minor,High,Product Recall
+203,Juice,BrandC,Meat,Water,6/15/2024,Chemical Analysis,Minor,Medium,Warning Issued
+204,Chicken,BrandB,Bakery,Coloring agents,4/4/2024,Chemical Analysis,Minor,Medium,Fine Imposed
+205,Chicken,BrandB,Beverages,Water,6/5/2024,Microbiological Analysis,Moderate,Low,Fine Imposed
+206,Beef,BrandA,Beverages,Coloring agents,4/21/2024,Spectroscopy,Minor,Low,Fine Imposed
+207,Butter,BrandC,Dairy,Artificial sweeteners,6/9/2024,Chemical Analysis,Moderate,Medium,Fine Imposed
+208,Honey,BrandA,Condiments,Chalk,6/25/2024,Chemical Analysis,Moderate,Low,Fine Imposed
+209,Juice,BrandA,Beverages,Melamine,2/21/2024,Chemical Analysis,Minor,High,Fine Imposed
+210,Juice,BrandC,Condiments,Artificial sweeteners,3/24/2024,Spectroscopy,Severe,Medium,Fine Imposed
+211,Honey,BrandB,Beverages,Chalk,6/8/2024,Sensory Evaluation,Minor,High,Investigation Launched
+212,Yogurt,BrandA,Dairy,Chalk,5/13/2024,Sensory Evaluation,Severe,High,Product Recall
+213,Juice,BrandB,Condiments,Coloring agents,4/4/2024,Chemical Analysis,Minor,High,Investigation Launched
+214,Juice,BrandC,Meat,Chalk,6/28/2024,Chemical Analysis,Moderate,High,Investigation Launched
+215,Milk,BrandE,Bakery,Chalk,6/2/2024,Sensory Evaluation,Moderate,High,Fine Imposed
+216,Chicken,BrandD,Dairy,Melamine,6/5/2024,Chemical Analysis,Severe,High,Investigation Launched
+217,Yogurt,BrandA,Dairy,Chalk,2/21/2024,Sensory Evaluation,Severe,Low,Fine Imposed
+218,Yogurt,BrandE,Dairy,Artificial sweeteners,3/15/2024,Chemical Analysis,Severe,Medium,Product Recall
+219,Chicken,BrandB,Beverages,Coloring agents,4/15/2024,Spectroscopy,Severe,High,Fine Imposed
+220,Juice,BrandD,Meat,Artificial sweeteners,5/3/2024,Spectroscopy,Minor,Low,Product Recall
+221,Honey,BrandD,Dairy,Water,2/26/2024,Chemical Analysis,Severe,Medium,Investigation Launched
+222,Chicken,BrandC,Meat,Artificial sweeteners,4/8/2024,Chemical Analysis,Minor,Low,Fine Imposed
+223,Butter,BrandC,Dairy,Coloring agents,5/30/2024,Microbiological Analysis,Moderate,Medium,Product Recall
+224,Milk,BrandD,Meat,Water,6/18/2024,Sensory Evaluation,Minor,Low,Fine Imposed
+225,Beef,BrandC,Meat,Coloring agents,2/4/2024,Spectroscopy,Moderate,High,Fine Imposed
+226,Milk,BrandB,Meat,Water,5/30/2024,Sensory Evaluation,Minor,High,Product Recall
+227,Butter,BrandB,Bakery,Water,5/22/2024,Spectroscopy,Moderate,Medium,Fine Imposed
+228,Bread,BrandD,Beverages,Coloring agents,5/8/2024,Microbiological Analysis,Minor,High,Investigation Launched
+229,Beef,BrandE,Dairy,Coloring agents,4/27/2024,Chemical Analysis,Moderate,Medium,Warning Issued
+230,Juice,BrandA,Meat,Chalk,1/6/2024,Microbiological Analysis,Minor,Medium,Investigation Launched
+231,Juice,BrandD,Dairy,Water,4/13/2024,Microbiological Analysis,Moderate,High,Fine Imposed
+232,Juice,BrandB,Beverages,Coloring agents,5/14/2024,Spectroscopy,Minor,Low,Investigation Launched
+233,Juice,BrandE,Bakery,Melamine,1/18/2024,Chemical Analysis,Minor,Low,Product Recall
+234,Yogurt,BrandE,Bakery,Artificial sweeteners,2/10/2024,Sensory Evaluation,Severe,Low,Fine Imposed
+235,Wine,BrandD,Condiments,Coloring agents,3/7/2024,Chemical Analysis,Minor,Low,Investigation Launched
+236,Wine,BrandA,Condiments,Artificial sweeteners,1/15/2024,Sensory Evaluation,Severe,High,Fine Imposed
+237,Cheese,BrandA,Meat,Coloring agents,5/4/2024,Chemical Analysis,Severe,Low,Investigation Launched
+238,Cheese,BrandE,Beverages,Melamine,5/10/2024,Microbiological Analysis,Severe,High,Fine Imposed
+239,Chicken,BrandC,Meat,Coloring agents,6/10/2024,Spectroscopy,Minor,Medium,Fine Imposed
+240,Milk,BrandD,Condiments,Melamine,2/17/2024,Sensory Evaluation,Moderate,Medium,Fine Imposed
+241,Butter,BrandE,Beverages,Artificial sweeteners,3/23/2024,Microbiological Analysis,Severe,High,Fine Imposed
+242,Juice,BrandC,Beverages,Coloring agents,6/6/2024,Microbiological Analysis,Minor,High,Warning Issued
+243,Chicken,BrandD,Meat,Coloring agents,6/15/2024,Microbiological Analysis,Severe,High,Investigation Launched
+244,Honey,BrandD,Beverages,Artificial sweeteners,5/4/2024,Microbiological Analysis,Severe,Low,Warning Issued
+245,Juice,BrandC,Bakery,Artificial sweeteners,2/29/2024,Microbiological Analysis,Moderate,Low,Investigation Launched
+246,Cheese,BrandA,Meat,Melamine,5/26/2024,Chemical Analysis,Minor,Low,Product Recall
+247,Juice,BrandB,Condiments,Coloring agents,6/6/2024,Chemical Analysis,Moderate,Low,Warning Issued
+248,Yogurt,BrandC,Meat,Melamine,5/3/2024,Spectroscopy,Minor,High,Warning Issued
+249,Cheese,BrandB,Beverages,Coloring agents,1/24/2024,Microbiological Analysis,Minor,Low,Fine Imposed
+250,Yogurt,BrandA,Condiments,Water,4/26/2024,Spectroscopy,Severe,High,Fine Imposed
+251,Juice,BrandE,Dairy,Coloring agents,1/13/2024,Sensory Evaluation,Severe,Medium,Fine Imposed
+252,Cheese,BrandB,Condiments,Coloring agents,4/30/2024,Chemical Analysis,Minor,Low,Fine Imposed
+253,Milk,BrandD,Condiments,Melamine,6/14/2024,Chemical Analysis,Moderate,High,Investigation Launched
+254,Milk,BrandE,Meat,Chalk,1/20/2024,Microbiological Analysis,Moderate,High,Fine Imposed
+255,Bread,BrandE,Beverages,Melamine,5/23/2024,Spectroscopy,Moderate,Medium,Investigation Launched
+256,Honey,BrandD,Beverages,Artificial sweeteners,1/10/2024,Chemical Analysis,Severe,High,Product Recall
+257,Cheese,BrandA,Meat,Coloring agents,2/25/2024,Microbiological Analysis,Moderate,High,Warning Issued
+258,Chicken,BrandD,Meat,Artificial sweeteners,4/20/2024,Microbiological Analysis,Severe,High,Investigation Launched
+259,Chicken,BrandB,Beverages,Artificial sweeteners,2/15/2024,Sensory Evaluation,Moderate,Medium,Warning Issued
+260,Cheese,BrandB,Dairy,Artificial sweeteners,2/7/2024,Chemical Analysis,Moderate,Medium,Warning Issued
+261,Milk,BrandB,Beverages,Artificial sweeteners,4/23/2024,Sensory Evaluation,Moderate,High,Fine Imposed
+262,Milk,BrandB,Bakery,Water,2/13/2024,Microbiological Analysis,Severe,Low,Product Recall
+263,Bread,BrandB,Condiments,Coloring agents,4/26/2024,Sensory Evaluation,Moderate,Low,Fine Imposed
+264,Bread,BrandB,Condiments,Coloring agents,3/17/2024,Microbiological Analysis,Moderate,High,Product Recall
+265,Honey,BrandC,Beverages,Coloring agents,6/28/2024,Sensory Evaluation,Severe,High,Investigation Launched
+266,Honey,BrandA,Meat,Melamine,4/28/2024,Spectroscopy,Moderate,High,Product Recall
+267,Chicken,BrandE,Meat,Melamine,5/23/2024,Chemical Analysis,Minor,High,Warning Issued
+268,Honey,BrandE,Dairy,Artificial sweeteners,4/29/2024,Microbiological Analysis,Severe,Medium,Investigation Launched
+269,Juice,BrandC,Meat,Artificial sweeteners,1/21/2024,Microbiological Analysis,Severe,High,Warning Issued
+270,Bread,BrandE,Dairy,Water,1/16/2024,Sensory Evaluation,Moderate,Low,Investigation Launched
+271,Chicken,BrandE,Meat,Chalk,5/20/2024,Spectroscopy,Severe,Low,Fine Imposed
+272,Chicken,BrandD,Bakery,Coloring agents,6/25/2024,Spectroscopy,Severe,Medium,Warning Issued
+273,Wine,BrandB,Bakery,Water,1/1/2024,Microbiological Analysis,Severe,Medium,Product Recall
+274,Yogurt,BrandE,Dairy,Chalk,6/17/2024,Sensory Evaluation,Moderate,Low,Warning Issued
+275,Juice,BrandC,Bakery,Coloring agents,6/14/2024,Sensory Evaluation,Minor,Low,Product Recall
+276,Cheese,BrandD,Bakery,Melamine,5/8/2024,Chemical Analysis,Moderate,High,Fine Imposed
+277,Honey,BrandD,Condiments,Chalk,4/19/2024,Spectroscopy,Minor,High,Product Recall
+278,Honey,BrandE,Condiments,Coloring agents,2/22/2024,Microbiological Analysis,Minor,High,Fine Imposed
+279,Chicken,BrandB,Beverages,Water,3/2/2024,Spectroscopy,Minor,Low,Investigation Launched
+280,Butter,BrandB,Bakery,Coloring agents,1/22/2024,Chemical Analysis,Severe,High,Fine Imposed
+281,Beef,BrandE,Dairy,Artificial sweeteners,4/19/2024,Spectroscopy,Minor,High,Product Recall
+282,Cheese,BrandE,Dairy,Water,4/2/2024,Sensory Evaluation,Severe,High,Product Recall
+283,Yogurt,BrandE,Bakery,Water,1/15/2024,Microbiological Analysis,Moderate,Low,Product Recall
+284,Butter,BrandC,Condiments,Chalk,5/30/2024,Chemical Analysis,Minor,Medium,Warning Issued
+285,Cheese,BrandD,Bakery,Melamine,5/5/2024,Chemical Analysis,Severe,Low,Investigation Launched
+286,Chicken,BrandE,Condiments,Artificial sweeteners,3/10/2024,Microbiological Analysis,Minor,Low,Warning Issued
+287,Milk,BrandD,Dairy,Artificial sweeteners,1/17/2024,Spectroscopy,Severe,High,Investigation Launched
+288,Honey,BrandD,Beverages,Chalk,5/8/2024,Microbiological Analysis,Moderate,Medium,Investigation Launched
+289,Milk,BrandC,Dairy,Water,5/31/2024,Microbiological Analysis,Moderate,Low,Investigation Launched
+290,Bread,BrandE,Condiments,Coloring agents,1/12/2024,Microbiological Analysis,Moderate,Medium,Product Recall
+291,Yogurt,BrandE,Meat,Coloring agents,3/1/2024,Spectroscopy,Moderate,Low,Fine Imposed
+292,Beef,BrandD,Dairy,Coloring agents,2/12/2024,Sensory Evaluation,Severe,High,Investigation Launched
+293,Honey,BrandE,Beverages,Water,3/29/2024,Chemical Analysis,Severe,High,Fine Imposed
+294,Yogurt,BrandD,Meat,Chalk,6/14/2024,Spectroscopy,Severe,Medium,Warning Issued
+295,Beef,BrandC,Meat,Artificial sweeteners,2/10/2024,Microbiological Analysis,Minor,High,Product Recall
+296,Cheese,BrandD,Dairy,Coloring agents,1/23/2024,Microbiological Analysis,Moderate,Low,Warning Issued
+297,Yogurt,BrandA,Dairy,Melamine,4/20/2024,Spectroscopy,Minor,High,Product Recall
+298,Beef,BrandE,Bakery,Melamine,2/17/2024,Chemical Analysis,Severe,High,Investigation Launched
+299,Yogurt,BrandE,Bakery,Melamine,5/22/2024,Microbiological Analysis,Minor,Medium,Product Recall
+300,Chicken,BrandD,Dairy,Coloring agents,6/19/2024,Spectroscopy,Moderate,High,Warning Issued
+301,Milk,BrandB,Beverages,Artificial sweeteners,1/25/2024,Sensory Evaluation,Severe,Low,Product Recall
+302,Honey,BrandB,Bakery,Artificial sweeteners,4/6/2024,Microbiological Analysis,Minor,Medium,Investigation Launched
+303,Milk,BrandB,Dairy,Melamine,4/12/2024,Spectroscopy,Severe,Medium,Investigation Launched
+304,Juice,BrandC,Beverages,Artificial sweeteners,2/13/2024,Microbiological Analysis,Moderate,Medium,Fine Imposed
+305,Bread,BrandE,Dairy,Chalk,6/15/2024,Chemical Analysis,Minor,Low,Fine Imposed
+306,Cheese,BrandD,Meat,Chalk,2/1/2024,Spectroscopy,Moderate,High,Fine Imposed
+307,Chicken,BrandB,Condiments,Water,2/7/2024,Spectroscopy,Minor,Medium,Warning Issued
+308,Chicken,BrandA,Condiments,Chalk,5/12/2024,Chemical Analysis,Severe,Medium,Product Recall
+309,Butter,BrandA,Condiments,Chalk,2/10/2024,Sensory Evaluation,Minor,High,Investigation Launched
+310,Wine,BrandC,Meat,Coloring agents,6/20/2024,Chemical Analysis,Moderate,Medium,Warning Issued
+311,Milk,BrandB,Condiments,Melamine,2/11/2024,Chemical Analysis,Severe,High,Warning Issued
+312,Bread,BrandD,Dairy,Chalk,4/20/2024,Sensory Evaluation,Moderate,Medium,Investigation Launched
+313,Honey,BrandA,Bakery,Chalk,2/26/2024,Sensory Evaluation,Severe,Medium,Warning Issued
+314,Yogurt,BrandD,Meat,Melamine,3/30/2024,Spectroscopy,Minor,Medium,Warning Issued
+315,Butter,BrandC,Beverages,Chalk,5/14/2024,Chemical Analysis,Minor,Medium,Fine Imposed
+316,Beef,BrandC,Dairy,Chalk,5/16/2024,Sensory Evaluation,Severe,High,Warning Issued
+317,Bread,BrandA,Beverages,Artificial sweeteners,1/20/2024,Microbiological Analysis,Severe,Medium,Investigation Launched
+318,Milk,BrandC,Bakery,Chalk,5/18/2024,Spectroscopy,Moderate,High,Warning Issued
+319,Honey,BrandA,Dairy,Water,3/3/2024,Microbiological Analysis,Moderate,Low,Warning Issued
+320,Milk,BrandA,Beverages,Chalk,5/25/2024,Sensory Evaluation,Minor,High,Investigation Launched
+321,Juice,BrandC,Beverages,Artificial sweeteners,3/31/2024,Spectroscopy,Minor,Low,Warning Issued
+322,Honey,BrandD,Dairy,Water,4/10/2024,Sensory Evaluation,Minor,Low,Product Recall
+323,Juice,BrandB,Meat,Melamine,6/29/2024,Spectroscopy,Minor,High,Warning Issued
+324,Yogurt,BrandC,Dairy,Artificial sweeteners,4/27/2024,Sensory Evaluation,Severe,Low,Fine Imposed
+325,Milk,BrandA,Beverages,Chalk,1/22/2024,Microbiological Analysis,Minor,Low,Warning Issued
+326,Beef,BrandE,Bakery,Water,5/13/2024,Spectroscopy,Moderate,Low,Fine Imposed
+327,Cheese,BrandC,Meat,Water,3/31/2024,Microbiological Analysis,Minor,High,Product Recall
+328,Yogurt,BrandE,Beverages,Chalk,1/2/2024,Spectroscopy,Moderate,Low,Warning Issued
+329,Juice,BrandA,Beverages,Melamine,5/13/2024,Spectroscopy,Moderate,Low,Investigation Launched
+330,Wine,BrandE,Beverages,Water,4/19/2024,Sensory Evaluation,Severe,High,Investigation Launched
+331,Beef,BrandB,Dairy,Melamine,1/2/2024,Chemical Analysis,Severe,Low,Investigation Launched
+332,Butter,BrandB,Dairy,Melamine,6/18/2024,Microbiological Analysis,Severe,High,Investigation Launched
+333,Bread,BrandA,Meat,Melamine,5/26/2024,Chemical Analysis,Severe,Low,Fine Imposed
+334,Beef,BrandD,Dairy,Coloring agents,2/26/2024,Sensory Evaluation,Severe,Low,Fine Imposed
+335,Honey,BrandB,Meat,Chalk,3/19/2024,Spectroscopy,Severe,High,Investigation Launched
+336,Chicken,BrandC,Condiments,Coloring agents,6/20/2024,Sensory Evaluation,Minor,Medium,Warning Issued
+337,Butter,BrandC,Bakery,Coloring agents,4/10/2024,Chemical Analysis,Severe,High,Product Recall
+338,Honey,BrandD,Dairy,Coloring agents,5/11/2024,Spectroscopy,Severe,High,Warning Issued
+339,Chicken,BrandC,Meat,Chalk,2/23/2024,Sensory Evaluation,Severe,High,Fine Imposed
+340,Milk,BrandC,Meat,Melamine,1/17/2024,Sensory Evaluation,Minor,Medium,Investigation Launched
+341,Honey,BrandD,Bakery,Artificial sweeteners,3/31/2024,Microbiological Analysis,Severe,Low,Fine Imposed
+342,Beef,BrandA,Condiments,Melamine,2/29/2024,Spectroscopy,Minor,Medium,Warning Issued
+343,Cheese,BrandC,Condiments,Water,4/28/2024,Chemical Analysis,Minor,Medium,Investigation Launched
+344,Honey,BrandC,Meat,Coloring agents,6/7/2024,Chemical Analysis,Severe,Medium,Warning Issued
+345,Chicken,BrandC,Meat,Chalk,3/17/2024,Spectroscopy,Minor,High,Fine Imposed
+346,Juice,BrandE,Meat,Artificial sweeteners,2/26/2024,Microbiological Analysis,Minor,Medium,Warning Issued
+347,Juice,BrandD,Condiments,Chalk,2/19/2024,Spectroscopy,Moderate,Low,Warning Issued
+348,Juice,BrandB,Beverages,Artificial sweeteners,6/1/2024,Chemical Analysis,Severe,Medium,Product Recall
+349,Milk,BrandD,Beverages,Coloring agents,3/5/2024,Microbiological Analysis,Moderate,Medium,Product Recall
+350,Beef,BrandD,Beverages,Melamine,4/11/2024,Microbiological Analysis,Severe,Medium,Investigation Launched
+351,Bread,BrandD,Condiments,Coloring agents,4/22/2024,Sensory Evaluation,Severe,High,Product Recall
+352,Bread,BrandE,Dairy,Water,6/19/2024,Spectroscopy,Moderate,Low,Investigation Launched
+353,Butter,BrandC,Meat,Chalk,2/21/2024,Sensory Evaluation,Moderate,Low,Investigation Launched
+354,Yogurt,BrandB,Dairy,Water,1/28/2024,Sensory Evaluation,Moderate,High,Investigation Launched
+355,Chicken,BrandE,Dairy,Water,5/7/2024,Sensory Evaluation,Minor,High,Warning Issued
+356,Juice,BrandE,Dairy,Chalk,5/12/2024,Chemical Analysis,Severe,High,Fine Imposed
+357,Milk,BrandA,Dairy,Coloring agents,5/28/2024,Chemical Analysis,Moderate,Medium,Investigation Launched
+358,Yogurt,BrandB,Bakery,Chalk,1/18/2024,Spectroscopy,Minor,Medium,Fine Imposed
+359,Butter,BrandD,Meat,Coloring agents,1/27/2024,Microbiological Analysis,Minor,Low,Investigation Launched
+360,Honey,BrandE,Condiments,Chalk,6/3/2024,Chemical Analysis,Severe,High,Warning Issued
+361,Yogurt,BrandA,Dairy,Coloring agents,5/11/2024,Microbiological Analysis,Severe,Low,Product Recall
+362,Beef,BrandA,Meat,Melamine,6/30/2024,Microbiological Analysis,Severe,Low,Fine Imposed
+363,Milk,BrandA,Condiments,Water,5/7/2024,Chemical Analysis,Severe,Medium,Warning Issued
+364,Juice,BrandA,Meat,Coloring agents,1/19/2024,Sensory Evaluation,Minor,Medium,Investigation Launched
+365,Chicken,BrandA,Bakery,Coloring agents,5/8/2024,Microbiological Analysis,Moderate,Low,Fine Imposed
+366,Honey,BrandB,Bakery,Artificial sweeteners,6/14/2024,Sensory Evaluation,Minor,High,Warning Issued
+367,Bread,BrandC,Beverages,Artificial sweeteners,2/3/2024,Sensory Evaluation,Severe,Medium,Investigation Launched
+368,Beef,BrandD,Condiments,Chalk,4/12/2024,Spectroscopy,Minor,Low,Investigation Launched
+369,Milk,BrandC,Condiments,Melamine,2/25/2024,Spectroscopy,Severe,High,Investigation Launched
+370,Milk,BrandE,Bakery,Coloring agents,2/18/2024,Chemical Analysis,Moderate,High,Warning Issued
+371,Wine,BrandD,Beverages,Water,2/6/2024,Spectroscopy,Severe,Medium,Product Recall
+372,Bread,BrandC,Bakery,Melamine,6/21/2024,Spectroscopy,Minor,Medium,Product Recall
+373,Chicken,BrandA,Meat,Coloring agents,3/15/2024,Microbiological Analysis,Severe,Low,Fine Imposed
+374,Milk,BrandB,Bakery,Coloring agents,3/18/2024,Sensory Evaluation,Severe,Low,Fine Imposed
+375,Milk,BrandD,Dairy,Water,2/16/2024,Chemical Analysis,Severe,Low,Fine Imposed
+376,Cheese,BrandC,Beverages,Coloring agents,2/19/2024,Sensory Evaluation,Minor,High,Warning Issued
+377,Honey,BrandA,Beverages,Melamine,1/11/2024,Chemical Analysis,Minor,Low,Product Recall
+378,Chicken,BrandA,Condiments,Chalk,3/1/2024,Sensory Evaluation,Severe,Low,Warning Issued
+379,Cheese,BrandB,Dairy,Artificial sweeteners,5/29/2024,Chemical Analysis,Severe,Medium,Product Recall
+380,Juice,BrandE,Bakery,Coloring agents,5/19/2024,Spectroscopy,Severe,High,Product Recall
+381,Yogurt,BrandC,Dairy,Water,5/21/2024,Sensory Evaluation,Severe,Low,Product Recall
+382,Chicken,BrandA,Meat,Coloring agents,1/8/2024,Chemical Analysis,Minor,Low,Investigation Launched
+383,Wine,BrandB,Meat,Water,6/21/2024,Sensory Evaluation,Severe,Low,Investigation Launched
+384,Wine,BrandC,Condiments,Melamine,2/20/2024,Chemical Analysis,Minor,Low,Fine Imposed
+385,Beef,BrandC,Meat,Coloring agents,4/13/2024,Sensory Evaluation,Moderate,Low,Fine Imposed
+386,Yogurt,BrandE,Dairy,Coloring agents,1/31/2024,Sensory Evaluation,Severe,Low,Warning Issued
+387,Milk,BrandE,Dairy,Coloring agents,1/20/2024,Sensory Evaluation,Minor,Medium,Warning Issued
+388,Wine,BrandC,Beverages,Coloring agents,6/7/2024,Spectroscopy,Minor,Low,Investigation Launched
+389,Beef,BrandE,Bakery,Chalk,6/18/2024,Chemical Analysis,Minor,Medium,Investigation Launched
+390,Bread,BrandA,Dairy,Water,5/20/2024,Spectroscopy,Severe,Low,Warning Issued
+391,Honey,BrandB,Dairy,Melamine,6/19/2024,Sensory Evaluation,Severe,Low,Fine Imposed
+392,Bread,BrandA,Condiments,Water,1/28/2024,Chemical Analysis,Minor,Low,Warning Issued
+393,Juice,BrandD,Dairy,Water,5/23/2024,Chemical Analysis,Minor,Medium,Investigation Launched
+394,Juice,BrandE,Beverages,Artificial sweeteners,5/25/2024,Spectroscopy,Moderate,Low,Investigation Launched
+395,Juice,BrandE,Condiments,Coloring agents,4/23/2024,Spectroscopy,Minor,Medium,Warning Issued
+396,Butter,BrandB,Dairy,Melamine,6/6/2024,Chemical Analysis,Minor,High,Warning Issued
+397,Bread,BrandE,Dairy,Artificial sweeteners,2/17/2024,Chemical Analysis,Moderate,Medium,Warning Issued
+398,Yogurt,BrandB,Beverages,Coloring agents,6/28/2024,Sensory Evaluation,Minor,Low,Fine Imposed
+399,Bread,BrandC,Dairy,Water,3/21/2024,Chemical Analysis,Moderate,Medium,Investigation Launched
+400,Wine,BrandE,Dairy,Melamine,3/18/2024,Spectroscopy,Minor,Low,Product Recall
+401,Chicken,BrandA,Dairy,Chalk,5/2/2024,Chemical Analysis,Minor,Medium,Investigation Launched
+402,Honey,BrandB,Dairy,Coloring agents,3/11/2024,Microbiological Analysis,Moderate,Medium,Product Recall
+403,Juice,BrandD,Bakery,Water,5/16/2024,Sensory Evaluation,Severe,Low,Investigation Launched
+404,Honey,BrandC,Meat,Chalk,1/30/2024,Chemical Analysis,Minor,Low,Investigation Launched
+405,Chicken,BrandB,Condiments,Artificial sweeteners,2/2/2024,Microbiological Analysis,Minor,High,Fine Imposed
+406,Butter,BrandB,Bakery,Chalk,5/6/2024,Microbiological Analysis,Minor,Medium,Warning Issued
+407,Wine,BrandC,Meat,Artificial sweeteners,3/9/2024,Sensory Evaluation,Minor,Medium,Fine Imposed
+408,Beef,BrandA,Condiments,Artificial sweeteners,3/31/2024,Sensory Evaluation,Minor,Medium,Fine Imposed
+409,Honey,BrandD,Beverages,Chalk,5/19/2024,Spectroscopy,Severe,Low,Fine Imposed
+410,Butter,BrandA,Beverages,Chalk,1/10/2024,Chemical Analysis,Severe,High,Product Recall
+411,Yogurt,BrandA,Dairy,Chalk,2/24/2024,Spectroscopy,Moderate,High,Product Recall
+412,Honey,BrandA,Beverages,Chalk,4/6/2024,Chemical Analysis,Minor,Low,Warning Issued
+413,Wine,BrandE,Dairy,Chalk,3/9/2024,Microbiological Analysis,Minor,Medium,Warning Issued
+414,Beef,BrandD,Condiments,Chalk,5/23/2024,Spectroscopy,Minor,Low,Investigation Launched
+415,Butter,BrandB,Dairy,Chalk,2/18/2024,Chemical Analysis,Minor,Low,Warning Issued
+416,Milk,BrandB,Meat,Chalk,2/10/2024,Microbiological Analysis,Minor,High,Product Recall
+417,Yogurt,BrandA,Beverages,Chalk,2/14/2024,Sensory Evaluation,Moderate,Low,Investigation Launched
+418,Juice,BrandC,Beverages,Coloring agents,2/18/2024,Spectroscopy,Minor,Low,Warning Issued
+419,Cheese,BrandD,Condiments,Chalk,5/30/2024,Chemical Analysis,Moderate,Low,Product Recall
+420,Juice,BrandA,Dairy,Melamine,3/7/2024,Chemical Analysis,Minor,High,Warning Issued
+421,Juice,BrandA,Dairy,Melamine,2/15/2024,Microbiological Analysis,Minor,Low,Investigation Launched
+422,Beef,BrandB,Meat,Artificial sweeteners,3/2/2024,Chemical Analysis,Moderate,Low,Investigation Launched
+423,Cheese,BrandB,Dairy,Water,4/14/2024,Spectroscopy,Severe,Medium,Warning Issued
+424,Bread,BrandC,Dairy,Water,5/11/2024,Spectroscopy,Moderate,Low,Investigation Launched
+425,Cheese,BrandE,Bakery,Melamine,5/9/2024,Microbiological Analysis,Severe,High,Investigation Launched
+426,Chicken,BrandE,Meat,Artificial sweeteners,4/10/2024,Spectroscopy,Minor,Low,Fine Imposed
+427,Butter,BrandC,Dairy,Melamine,4/4/2024,Chemical Analysis,Moderate,Low,Product Recall
+428,Beef,BrandA,Dairy,Artificial sweeteners,4/30/2024,Spectroscopy,Minor,Low,Product Recall
+429,Chicken,BrandD,Meat,Coloring agents,3/31/2024,Sensory Evaluation,Severe,High,Fine Imposed
+430,Juice,BrandD,Beverages,Chalk,3/16/2024,Chemical Analysis,Severe,Low,Product Recall
+431,Chicken,BrandD,Dairy,Water,4/6/2024,Spectroscopy,Severe,Medium,Investigation Launched
+432,Yogurt,BrandB,Dairy,Water,3/24/2024,Microbiological Analysis,Severe,Low,Investigation Launched
+433,Butter,BrandD,Bakery,Chalk,5/19/2024,Sensory Evaluation,Moderate,Low,Fine Imposed
+434,Cheese,BrandD,Beverages,Artificial sweeteners,2/29/2024,Sensory Evaluation,Moderate,High,Product Recall
+435,Yogurt,BrandE,Condiments,Coloring agents,4/11/2024,Sensory Evaluation,Moderate,High,Fine Imposed
+436,Chicken,BrandD,Condiments,Melamine,5/17/2024,Chemical Analysis,Minor,Low,Fine Imposed
+437,Wine,BrandC,Beverages,Artificial sweeteners,5/4/2024,Spectroscopy,Moderate,Medium,Investigation Launched
+438,Yogurt,BrandE,Meat,Coloring agents,4/16/2024,Chemical Analysis,Minor,Low,Investigation Launched
+439,Milk,BrandB,Dairy,Chalk,5/30/2024,Chemical Analysis,Moderate,Low,Product Recall
+440,Bread,BrandE,Condiments,Melamine,5/6/2024,Spectroscopy,Minor,Medium,Fine Imposed
+441,Milk,BrandA,Meat,Water,6/12/2024,Chemical Analysis,Moderate,Low,Warning Issued
+442,Wine,BrandB,Meat,Coloring agents,3/7/2024,Sensory Evaluation,Severe,Low,Product Recall
+443,Butter,BrandA,Condiments,Chalk,4/17/2024,Sensory Evaluation,Severe,Low,Fine Imposed
+444,Yogurt,BrandA,Beverages,Chalk,3/7/2024,Chemical Analysis,Severe,High,Fine Imposed
+445,Wine,BrandB,Condiments,Artificial sweeteners,4/15/2024,Chemical Analysis,Moderate,Low,Warning Issued
+446,Wine,BrandA,Beverages,Water,2/3/2024,Microbiological Analysis,Minor,Medium,Investigation Launched
+447,Yogurt,BrandA,Beverages,Artificial sweeteners,5/31/2024,Chemical Analysis,Minor,High,Product Recall
+448,Milk,BrandA,Condiments,Coloring agents,4/24/2024,Chemical Analysis,Moderate,Medium,Fine Imposed
+449,Chicken,BrandD,Dairy,Melamine,2/22/2024,Microbiological Analysis,Moderate,Low,Investigation Launched
+450,Yogurt,BrandE,Dairy,Artificial sweeteners,4/2/2024,Microbiological Analysis,Moderate,Low,Fine Imposed
+451,Honey,BrandD,Meat,Chalk,5/12/2024,Sensory Evaluation,Minor,Medium,Investigation Launched
+452,Beef,BrandD,Meat,Artificial sweeteners,5/23/2024,Microbiological Analysis,Moderate,Low,Investigation Launched
+453,Wine,BrandE,Bakery,Chalk,1/20/2024,Chemical Analysis,Minor,Low,Investigation Launched
+454,Yogurt,BrandE,Dairy,Water,4/14/2024,Spectroscopy,Minor,Low,Fine Imposed
+455,Cheese,BrandC,Dairy,Melamine,2/26/2024,Spectroscopy,Moderate,Low,Fine Imposed
+456,Milk,BrandE,Dairy,Coloring agents,2/16/2024,Sensory Evaluation,Moderate,Low,Warning Issued
+457,Milk,BrandD,Bakery,Chalk,1/25/2024,Sensory Evaluation,Minor,Low,Fine Imposed
+458,Honey,BrandB,Beverages,Artificial sweeteners,1/17/2024,Sensory Evaluation,Minor,Low,Warning Issued
+459,Butter,BrandE,Beverages,Coloring agents,4/17/2024,Sensory Evaluation,Severe,Low,Investigation Launched
+460,Cheese,BrandB,Dairy,Chalk,4/23/2024,Microbiological Analysis,Minor,Medium,Fine Imposed
+461,Cheese,BrandE,Condiments,Coloring agents,4/25/2024,Spectroscopy,Moderate,Medium,Fine Imposed
+462,Wine,BrandD,Bakery,Coloring agents,3/29/2024,Chemical Analysis,Severe,High,Warning Issued
+463,Cheese,BrandE,Meat,Water,4/15/2024,Chemical Analysis,Minor,High,Investigation Launched
+464,Butter,BrandE,Bakery,Artificial sweeteners,6/30/2024,Sensory Evaluation,Severe,High,Warning Issued
+465,Juice,BrandE,Bakery,Coloring agents,4/14/2024,Spectroscopy,Minor,High,Warning Issued
+466,Juice,BrandA,Condiments,Artificial sweeteners,4/16/2024,Sensory Evaluation,Moderate,Low,Fine Imposed
+467,Juice,BrandE,Meat,Chalk,3/29/2024,Microbiological Analysis,Severe,Medium,Product Recall
+468,Wine,BrandE,Bakery,Melamine,6/9/2024,Chemical Analysis,Severe,Medium,Investigation Launched
+469,Butter,BrandC,Meat,Chalk,3/25/2024,Sensory Evaluation,Moderate,Low,Warning Issued
+470,Juice,BrandC,Bakery,Chalk,1/31/2024,Sensory Evaluation,Minor,High,Warning Issued
+471,Beef,BrandA,Dairy,Chalk,3/7/2024,Chemical Analysis,Severe,Low,Product Recall
+472,Yogurt,BrandC,Bakery,Coloring agents,2/24/2024,Microbiological Analysis,Minor,High,Fine Imposed
+473,Milk,BrandE,Condiments,Melamine,2/16/2024,Sensory Evaluation,Severe,Low,Warning Issued
+474,Bread,BrandE,Meat,Coloring agents,4/19/2024,Chemical Analysis,Severe,Low,Fine Imposed
+475,Bread,BrandE,Condiments,Artificial sweeteners,4/19/2024,Chemical Analysis,Moderate,High,Investigation Launched
+476,Milk,BrandA,Bakery,Artificial sweeteners,6/8/2024,Microbiological Analysis,Moderate,High,Investigation Launched
+477,Juice,BrandB,Meat,Melamine,4/16/2024,Spectroscopy,Minor,Medium,Fine Imposed
+478,Yogurt,BrandB,Bakery,Chalk,5/27/2024,Chemical Analysis,Minor,High,Investigation Launched
+479,Yogurt,BrandD,Bakery,Coloring agents,2/23/2024,Chemical Analysis,Moderate,Medium,Product Recall
+480,Juice,BrandC,Bakery,Water,6/12/2024,Sensory Evaluation,Moderate,Medium,Investigation Launched
+481,Chicken,BrandB,Condiments,Melamine,6/12/2024,Chemical Analysis,Moderate,Low,Warning Issued
+482,Cheese,BrandC,Beverages,Coloring agents,4/11/2024,Chemical Analysis,Minor,Low,Warning Issued
+483,Milk,BrandD,Bakery,Chalk,6/3/2024,Sensory Evaluation,Minor,Medium,Fine Imposed
+484,Cheese,BrandD,Beverages,Chalk,4/13/2024,Sensory Evaluation,Moderate,Medium,Product Recall
+485,Cheese,BrandD,Condiments,Water,1/11/2024,Spectroscopy,Moderate,Low,Product Recall
+486,Milk,BrandB,Dairy,Artificial sweeteners,3/31/2024,Spectroscopy,Moderate,Medium,Warning Issued
+487,Butter,BrandE,Beverages,Melamine,3/30/2024,Spectroscopy,Severe,High,Investigation Launched
+488,Honey,BrandE,Bakery,Artificial sweeteners,2/18/2024,Spectroscopy,Minor,High,Fine Imposed
+489,Yogurt,BrandC,Dairy,Artificial sweeteners,1/22/2024,Chemical Analysis,Severe,Medium,Fine Imposed
+490,Bread,BrandA,Dairy,Artificial sweeteners,1/1/2024,Sensory Evaluation,Moderate,Low,Warning Issued
+491,Yogurt,BrandD,Bakery,Water,3/30/2024,Spectroscopy,Severe,High,Investigation Launched
+492,Butter,BrandD,Beverages,Water,6/18/2024,Chemical Analysis,Severe,Medium,Warning Issued
+493,Butter,BrandA,Dairy,Water,5/15/2024,Microbiological Analysis,Minor,High,Warning Issued
+494,Beef,BrandB,Condiments,Artificial sweeteners,2/3/2024,Microbiological Analysis,Minor,Medium,Investigation Launched
+495,Juice,BrandC,Meat,Water,2/1/2024,Microbiological Analysis,Minor,Low,Fine Imposed
+496,Milk,BrandB,Condiments,Chalk,3/25/2024,Microbiological Analysis,Severe,Low,Investigation Launched
+497,Beef,BrandC,Bakery,Artificial sweeteners,1/10/2024,Microbiological Analysis,Severe,High,Warning Issued
+498,Juice,BrandB,Meat,Artificial sweeteners,1/18/2024,Chemical Analysis,Severe,High,Investigation Launched
+499,Juice,BrandE,Beverages,Water,2/14/2024,Spectroscopy,Severe,Low,Product Recall
+500,Cheese,BrandC,Beverages,Water,5/4/2024,Sensory Evaluation,Moderate,High,Warning Issued
+501,Yogurt,BrandC,Condiments,Coloring agents,1/26/2024,Spectroscopy,Moderate,High,Warning Issued
+502,Beef,BrandA,Meat,Melamine,6/30/2024,Spectroscopy,Severe,High,Investigation Launched
+503,Juice,BrandB,Dairy,Coloring agents,5/28/2024,Sensory Evaluation,Severe,High,Product Recall
+504,Chicken,BrandE,Condiments,Melamine,4/28/2024,Chemical Analysis,Severe,Low,Product Recall
+505,Chicken,BrandE,Bakery,Water,3/27/2024,Chemical Analysis,Moderate,Low,Fine Imposed
+506,Butter,BrandD,Bakery,Chalk,2/27/2024,Spectroscopy,Moderate,Medium,Product Recall
+507,Bread,BrandE,Meat,Melamine,1/24/2024,Spectroscopy,Minor,Medium,Warning Issued
+508,Wine,BrandD,Beverages,Coloring agents,5/10/2024,Spectroscopy,Moderate,Low,Warning Issued
+509,Butter,BrandC,Meat,Coloring agents,1/7/2024,Sensory Evaluation,Minor,High,Investigation Launched
+510,Beef,BrandA,Meat,Coloring agents,2/15/2024,Spectroscopy,Minor,Low,Fine Imposed
+511,Wine,BrandD,Condiments,Artificial sweeteners,5/5/2024,Microbiological Analysis,Moderate,High,Investigation Launched
+512,Juice,BrandD,Bakery,Melamine,2/22/2024,Spectroscopy,Minor,High,Fine Imposed
+513,Bread,BrandE,Condiments,Melamine,4/25/2024,Sensory Evaluation,Minor,Medium,Product Recall
+514,Honey,BrandA,Meat,Water,3/21/2024,Chemical Analysis,Minor,Low,Warning Issued
+515,Wine,BrandA,Meat,Water,2/5/2024,Chemical Analysis,Minor,Medium,Fine Imposed
+516,Wine,BrandA,Bakery,Coloring agents,5/10/2024,Spectroscopy,Moderate,Low,Investigation Launched
+517,Juice,BrandC,Meat,Coloring agents,5/1/2024,Sensory Evaluation,Severe,Low,Fine Imposed
+518,Yogurt,BrandC,Beverages,Coloring agents,1/15/2024,Spectroscopy,Moderate,High,Fine Imposed
+519,Bread,BrandE,Dairy,Melamine,5/24/2024,Spectroscopy,Minor,High,Investigation Launched
+520,Chicken,BrandD,Dairy,Melamine,6/23/2024,Microbiological Analysis,Moderate,High,Investigation Launched
+521,Milk,BrandC,Beverages,Coloring agents,5/11/2024,Spectroscopy,Severe,Low,Fine Imposed
+522,Yogurt,BrandB,Meat,Chalk,5/26/2024,Sensory Evaluation,Minor,High,Investigation Launched
+523,Bread,BrandB,Dairy,Coloring agents,2/19/2024,Sensory Evaluation,Minor,Medium,Product Recall
+524,Honey,BrandC,Beverages,Melamine,1/29/2024,Microbiological Analysis,Minor,Medium,Fine Imposed
+525,Wine,BrandD,Meat,Water,6/20/2024,Chemical Analysis,Minor,Medium,Fine Imposed
+526,Yogurt,BrandA,Bakery,Coloring agents,3/1/2024,Spectroscopy,Severe,High,Investigation Launched
+527,Beef,BrandE,Bakery,Chalk,6/4/2024,Spectroscopy,Moderate,Low,Fine Imposed
+528,Wine,BrandA,Dairy,Melamine,3/16/2024,Microbiological Analysis,Minor,Low,Warning Issued
+529,Bread,BrandC,Condiments,Chalk,1/4/2024,Sensory Evaluation,Moderate,Low,Warning Issued
+530,Honey,BrandB,Beverages,Artificial sweeteners,4/26/2024,Chemical Analysis,Minor,Medium,Product Recall
+531,Wine,BrandC,Dairy,Coloring agents,6/27/2024,Spectroscopy,Moderate,High,Product Recall
+532,Wine,BrandD,Condiments,Artificial sweeteners,6/5/2024,Spectroscopy,Severe,Low,Product Recall
+533,Chicken,BrandA,Condiments,Water,1/11/2024,Sensory Evaluation,Severe,Medium,Investigation Launched
+534,Chicken,BrandE,Meat,Chalk,3/28/2024,Spectroscopy,Severe,Low,Investigation Launched
+535,Chicken,BrandA,Beverages,Chalk,1/17/2024,Spectroscopy,Moderate,Low,Fine Imposed
+536,Beef,BrandE,Dairy,Water,1/15/2024,Spectroscopy,Moderate,High,Product Recall
+537,Juice,BrandA,Condiments,Water,2/7/2024,Sensory Evaluation,Minor,Medium,Warning Issued
+538,Chicken,BrandD,Beverages,Melamine,1/9/2024,Microbiological Analysis,Minor,Low,Product Recall
+539,Juice,BrandA,Meat,Artificial sweeteners,3/5/2024,Microbiological Analysis,Moderate,Medium,Fine Imposed
+540,Wine,BrandA,Dairy,Water,3/11/2024,Sensory Evaluation,Minor,High,Investigation Launched
+541,Beef,BrandA,Dairy,Water,5/19/2024,Sensory Evaluation,Minor,Low,Product Recall
+542,Bread,BrandB,Bakery,Artificial sweeteners,1/14/2024,Chemical Analysis,Severe,Low,Fine Imposed
+543,Juice,BrandE,Bakery,Artificial sweeteners,1/9/2024,Microbiological Analysis,Severe,Medium,Investigation Launched
+544,Yogurt,BrandB,Condiments,Artificial sweeteners,4/16/2024,Microbiological Analysis,Minor,Medium,Warning Issued
+545,Yogurt,BrandC,Meat,Artificial sweeteners,3/20/2024,Microbiological Analysis,Moderate,Medium,Product Recall
+546,Milk,BrandD,Condiments,Chalk,2/15/2024,Microbiological Analysis,Minor,Medium,Investigation Launched
+547,Butter,BrandC,Beverages,Melamine,2/5/2024,Chemical Analysis,Moderate,Medium,Fine Imposed
+548,Chicken,BrandD,Beverages,Melamine,4/7/2024,Sensory Evaluation,Minor,Medium,Warning Issued
+549,Cheese,BrandA,Bakery,Chalk,4/22/2024,Spectroscopy,Severe,Low,Fine Imposed
+550,Juice,BrandD,Meat,Melamine,6/22/2024,Microbiological Analysis,Moderate,High,Product Recall
+551,Wine,BrandB,Bakery,Artificial sweeteners,1/19/2024,Sensory Evaluation,Minor,High,Fine Imposed
+552,Juice,BrandE,Condiments,Coloring agents,1/27/2024,Sensory Evaluation,Severe,Low,Product Recall
+553,Beef,BrandB,Beverages,Melamine,3/31/2024,Microbiological Analysis,Severe,Low,Product Recall
+554,Chicken,BrandC,Dairy,Artificial sweeteners,1/23/2024,Spectroscopy,Minor,High,Investigation Launched
+555,Juice,BrandE,Dairy,Melamine,1/29/2024,Microbiological Analysis,Minor,High,Product Recall
+556,Cheese,BrandE,Dairy,Melamine,1/15/2024,Chemical Analysis,Moderate,Low,Fine Imposed
+557,Milk,BrandA,Condiments,Chalk,3/5/2024,Sensory Evaluation,Moderate,Medium,Investigation Launched
+558,Bread,BrandC,Condiments,Water,6/19/2024,Sensory Evaluation,Minor,Medium,Product Recall
+559,Milk,BrandA,Beverages,Coloring agents,1/23/2024,Microbiological Analysis,Severe,High,Investigation Launched
+560,Milk,BrandA,Dairy,Melamine,4/11/2024,Spectroscopy,Severe,Medium,Fine Imposed
+561,Wine,BrandC,Beverages,Water,4/28/2024,Microbiological Analysis,Moderate,Low,Product Recall
+562,Wine,BrandB,Dairy,Water,5/3/2024,Microbiological Analysis,Minor,Medium,Fine Imposed
+563,Yogurt,BrandB,Bakery,Melamine,2/5/2024,Spectroscopy,Minor,High,Fine Imposed
+564,Beef,BrandD,Condiments,Melamine,4/10/2024,Spectroscopy,Severe,Low,Fine Imposed
+565,Bread,BrandC,Dairy,Melamine,1/18/2024,Sensory Evaluation,Moderate,Medium,Fine Imposed
+566,Bread,BrandD,Meat,Artificial sweeteners,3/30/2024,Chemical Analysis,Severe,Low,Warning Issued
+567,Cheese,BrandB,Condiments,Water,3/10/2024,Microbiological Analysis,Severe,Low,Investigation Launched
+568,Juice,BrandC,Meat,Artificial sweeteners,2/9/2024,Spectroscopy,Severe,High,Product Recall
+569,Milk,BrandD,Meat,Artificial sweeteners,6/24/2024,Sensory Evaluation,Minor,Low,Warning Issued
+570,Beef,BrandA,Meat,Melamine,6/9/2024,Microbiological Analysis,Severe,Medium,Fine Imposed
+571,Milk,BrandC,Dairy,Coloring agents,6/23/2024,Microbiological Analysis,Severe,High,Product Recall
+572,Butter,BrandE,Meat,Melamine,1/10/2024,Microbiological Analysis,Minor,Low,Product Recall
+573,Chicken,BrandD,Meat,Water,3/11/2024,Chemical Analysis,Minor,Low,Product Recall
+574,Cheese,BrandC,Dairy,Artificial sweeteners,5/7/2024,Sensory Evaluation,Moderate,Medium,Product Recall
+575,Beef,BrandC,Beverages,Coloring agents,1/17/2024,Sensory Evaluation,Moderate,High,Investigation Launched
+576,Yogurt,BrandD,Dairy,Melamine,1/23/2024,Sensory Evaluation,Severe,Medium,Warning Issued
+577,Beef,BrandE,Bakery,Artificial sweeteners,6/6/2024,Chemical Analysis,Moderate,Low,Warning Issued
+578,Milk,BrandD,Beverages,Water,2/15/2024,Sensory Evaluation,Moderate,Medium,Fine Imposed
+579,Bread,BrandB,Meat,Melamine,3/6/2024,Sensory Evaluation,Minor,Low,Fine Imposed
+580,Bread,BrandC,Bakery,Artificial sweeteners,4/5/2024,Microbiological Analysis,Severe,High,Product Recall
+581,Bread,BrandB,Meat,Water,6/28/2024,Sensory Evaluation,Minor,Low,Fine Imposed
+582,Beef,BrandC,Meat,Coloring agents,6/7/2024,Spectroscopy,Severe,Medium,Warning Issued
+583,Milk,BrandD,Meat,Chalk,2/3/2024,Spectroscopy,Moderate,Medium,Product Recall
+584,Honey,BrandB,Bakery,Chalk,1/20/2024,Spectroscopy,Minor,Low,Warning Issued
+585,Wine,BrandA,Beverages,Artificial sweeteners,5/27/2024,Chemical Analysis,Moderate,Medium,Warning Issued
+586,Yogurt,BrandC,Meat,Chalk,3/7/2024,Chemical Analysis,Moderate,Medium,Investigation Launched
+587,Wine,BrandE,Dairy,Melamine,4/19/2024,Spectroscopy,Minor,Medium,Investigation Launched
+588,Chicken,BrandB,Meat,Chalk,3/25/2024,Spectroscopy,Severe,Low,Warning Issued
+589,Bread,BrandC,Bakery,Melamine,2/11/2024,Spectroscopy,Moderate,Low,Fine Imposed
+590,Butter,BrandC,Condiments,Melamine,3/14/2024,Sensory Evaluation,Severe,Medium,Investigation Launched
+591,Wine,BrandD,Beverages,Water,2/4/2024,Sensory Evaluation,Minor,High,Investigation Launched
+592,Juice,BrandD,Dairy,Melamine,2/18/2024,Sensory Evaluation,Minor,Low,Investigation Launched
+593,Beef,BrandD,Condiments,Water,4/30/2024,Spectroscopy,Moderate,High,Product Recall
+594,Honey,BrandD,Beverages,Coloring agents,6/10/2024,Spectroscopy,Moderate,Low,Fine Imposed
+595,Juice,BrandC,Dairy,Water,1/16/2024,Spectroscopy,Severe,Low,Investigation Launched
+596,Milk,BrandC,Bakery,Chalk,2/9/2024,Sensory Evaluation,Severe,Low,Warning Issued
+597,Wine,BrandC,Bakery,Chalk,1/27/2024,Spectroscopy,Severe,High,Investigation Launched
+598,Milk,BrandB,Bakery,Water,5/26/2024,Sensory Evaluation,Severe,Medium,Fine Imposed
+599,Wine,BrandA,Bakery,Melamine,3/1/2024,Spectroscopy,Minor,High,Product Recall
+600,Bread,BrandA,Meat,Water,3/2/2024,Chemical Analysis,Moderate,Medium,Product Recall
+601,Yogurt,BrandD,Beverages,Artificial sweeteners,4/30/2024,Microbiological Analysis,Moderate,Medium,Investigation Launched
+602,Wine,BrandC,Dairy,Chalk,6/2/2024,Chemical Analysis,Severe,High,Warning Issued
+603,Beef,BrandE,Bakery,Water,2/1/2024,Microbiological Analysis,Moderate,Medium,Investigation Launched
+604,Wine,BrandC,Condiments,Artificial sweeteners,4/29/2024,Sensory Evaluation,Minor,High,Investigation Launched
+605,Milk,BrandD,Dairy,Chalk,4/18/2024,Microbiological Analysis,Moderate,High,Product Recall
+606,Honey,BrandC,Beverages,Melamine,3/17/2024,Sensory Evaluation,Minor,Low,Fine Imposed
+607,Wine,BrandC,Condiments,Melamine,1/20/2024,Sensory Evaluation,Minor,High,Product Recall
+608,Yogurt,BrandC,Beverages,Melamine,5/13/2024,Microbiological Analysis,Minor,Low,Fine Imposed
+609,Cheese,BrandC,Condiments,Melamine,2/26/2024,Sensory Evaluation,Moderate,High,Investigation Launched
+610,Yogurt,BrandA,Meat,Coloring agents,6/10/2024,Spectroscopy,Moderate,High,Warning Issued
+611,Juice,BrandD,Condiments,Coloring agents,3/7/2024,Sensory Evaluation,Severe,Low,Product Recall
+612,Bread,BrandE,Condiments,Artificial sweeteners,6/8/2024,Microbiological Analysis,Moderate,Medium,Fine Imposed
+613,Butter,BrandD,Beverages,Melamine,4/15/2024,Chemical Analysis,Moderate,Medium,Investigation Launched
+614,Cheese,BrandC,Beverages,Water,6/21/2024,Microbiological Analysis,Moderate,High,Product Recall
+615,Chicken,BrandE,Beverages,Coloring agents,6/5/2024,Sensory Evaluation,Severe,High,Investigation Launched
+616,Milk,BrandD,Condiments,Melamine,5/3/2024,Chemical Analysis,Severe,Low,Warning Issued
+617,Milk,BrandE,Condiments,Artificial sweeteners,6/8/2024,Sensory Evaluation,Severe,Low,Fine Imposed
+618,Butter,BrandE,Meat,Coloring agents,4/20/2024,Microbiological Analysis,Severe,High,Warning Issued
+619,Milk,BrandA,Dairy,Water,3/9/2024,Microbiological Analysis,Severe,Medium,Fine Imposed
+620,Wine,BrandD,Meat,Water,4/10/2024,Spectroscopy,Minor,Low,Investigation Launched
+621,Milk,BrandA,Dairy,Melamine,3/23/2024,Sensory Evaluation,Severe,High,Fine Imposed
+622,Beef,BrandB,Beverages,Chalk,4/15/2024,Sensory Evaluation,Severe,Low,Product Recall
+623,Bread,BrandA,Beverages,Chalk,6/10/2024,Chemical Analysis,Severe,Medium,Product Recall
+624,Honey,BrandE,Beverages,Artificial sweeteners,6/21/2024,Spectroscopy,Moderate,Medium,Fine Imposed
+625,Cheese,BrandD,Meat,Melamine,4/9/2024,Microbiological Analysis,Moderate,High,Warning Issued
+626,Chicken,BrandE,Condiments,Melamine,5/8/2024,Sensory Evaluation,Severe,High,Product Recall
+627,Beef,BrandE,Dairy,Melamine,1/16/2024,Spectroscopy,Moderate,Medium,Fine Imposed
+628,Milk,BrandC,Dairy,Water,1/3/2024,Spectroscopy,Moderate,Low,Product Recall
+629,Bread,BrandC,Dairy,Coloring agents,1/23/2024,Spectroscopy,Minor,High,Investigation Launched
+630,Honey,BrandC,Bakery,Water,1/16/2024,Spectroscopy,Minor,Medium,Product Recall
+631,Bread,BrandD,Bakery,Chalk,3/14/2024,Sensory Evaluation,Severe,Medium,Product Recall
+632,Beef,BrandE,Dairy,Melamine,6/28/2024,Sensory Evaluation,Minor,High,Warning Issued
+633,Yogurt,BrandB,Condiments,Chalk,5/28/2024,Spectroscopy,Severe,High,Warning Issued
+634,Yogurt,BrandD,Beverages,Water,2/22/2024,Chemical Analysis,Minor,Low,Product Recall
+635,Bread,BrandE,Beverages,Chalk,4/10/2024,Chemical Analysis,Severe,Low,Investigation Launched
+636,Chicken,BrandE,Dairy,Coloring agents,1/31/2024,Sensory Evaluation,Moderate,High,Product Recall
+637,Yogurt,BrandB,Beverages,Melamine,4/14/2024,Microbiological Analysis,Minor,Low,Product Recall
+638,Yogurt,BrandE,Beverages,Coloring agents,6/29/2024,Spectroscopy,Minor,High,Warning Issued
+639,Beef,BrandE,Condiments,Artificial sweeteners,4/15/2024,Sensory Evaluation,Moderate,Low,Product Recall
+640,Honey,BrandB,Condiments,Artificial sweeteners,4/22/2024,Chemical Analysis,Severe,High,Warning Issued
+641,Chicken,BrandC,Meat,Artificial sweeteners,1/15/2024,Chemical Analysis,Severe,Low,Product Recall
+642,Wine,BrandB,Beverages,Water,5/21/2024,Spectroscopy,Moderate,Medium,Warning Issued
+643,Juice,BrandC,Bakery,Chalk,1/26/2024,Chemical Analysis,Moderate,Medium,Fine Imposed
+644,Milk,BrandE,Meat,Artificial sweeteners,4/4/2024,Spectroscopy,Moderate,Low,Fine Imposed
+645,Honey,BrandA,Meat,Melamine,3/29/2024,Chemical Analysis,Moderate,High,Warning Issued
+646,Butter,BrandC,Bakery,Artificial sweeteners,2/10/2024,Chemical Analysis,Severe,Low,Product Recall
+647,Cheese,BrandC,Condiments,Water,3/9/2024,Microbiological Analysis,Minor,Low,Warning Issued
+648,Cheese,BrandC,Beverages,Melamine,2/26/2024,Microbiological Analysis,Minor,Low,Product Recall
+649,Beef,BrandB,Bakery,Chalk,3/14/2024,Sensory Evaluation,Severe,Medium,Investigation Launched
+650,Honey,BrandD,Meat,Coloring agents,2/16/2024,Chemical Analysis,Moderate,High,Product Recall
+651,Cheese,BrandD,Meat,Coloring agents,6/7/2024,Spectroscopy,Severe,Medium,Fine Imposed
+652,Chicken,BrandB,Meat,Chalk,3/16/2024,Spectroscopy,Minor,High,Investigation Launched
+653,Bread,BrandE,Dairy,Artificial sweeteners,5/18/2024,Sensory Evaluation,Moderate,Low,Product Recall
+654,Beef,BrandD,Dairy,Coloring agents,3/29/2024,Microbiological Analysis,Moderate,High,Warning Issued
+655,Cheese,BrandB,Dairy,Melamine,1/24/2024,Microbiological Analysis,Severe,Medium,Warning Issued
+656,Bread,BrandC,Beverages,Artificial sweeteners,6/26/2024,Spectroscopy,Severe,Medium,Fine Imposed
+657,Honey,BrandE,Meat,Chalk,1/10/2024,Spectroscopy,Moderate,Low,Investigation Launched
+658,Cheese,BrandE,Bakery,Coloring agents,3/9/2024,Microbiological Analysis,Moderate,Low,Fine Imposed
+659,Bread,BrandE,Meat,Coloring agents,1/22/2024,Spectroscopy,Minor,High,Investigation Launched
+660,Honey,BrandD,Condiments,Melamine,4/1/2024,Chemical Analysis,Moderate,High,Product Recall
+661,Wine,BrandA,Dairy,Coloring agents,3/11/2024,Microbiological Analysis,Severe,Low,Warning Issued
+662,Butter,BrandC,Beverages,Chalk,6/30/2024,Microbiological Analysis,Severe,Medium,Product Recall
+663,Butter,BrandB,Condiments,Artificial sweeteners,5/13/2024,Microbiological Analysis,Moderate,Medium,Product Recall
+664,Honey,BrandA,Bakery,Water,3/25/2024,Microbiological Analysis,Moderate,Medium,Product Recall
+665,Juice,BrandE,Dairy,Melamine,5/20/2024,Chemical Analysis,Moderate,Low,Product Recall
+666,Juice,BrandA,Beverages,Artificial sweeteners,1/31/2024,Spectroscopy,Severe,High,Warning Issued
+667,Wine,BrandE,Meat,Water,3/25/2024,Microbiological Analysis,Minor,Low,Product Recall
+668,Wine,BrandE,Bakery,Artificial sweeteners,6/13/2024,Microbiological Analysis,Severe,Low,Product Recall
+669,Cheese,BrandC,Bakery,Coloring agents,3/19/2024,Microbiological Analysis,Minor,Low,Warning Issued
+670,Beef,BrandA,Meat,Melamine,6/17/2024,Spectroscopy,Moderate,Medium,Fine Imposed
+671,Bread,BrandC,Condiments,Water,2/29/2024,Chemical Analysis,Minor,High,Fine Imposed
+672,Butter,BrandC,Condiments,Water,1/14/2024,Spectroscopy,Moderate,Low,Warning Issued
+673,Cheese,BrandD,Meat,Coloring agents,5/27/2024,Spectroscopy,Minor,Low,Warning Issued
+674,Honey,BrandE,Bakery,Artificial sweeteners,6/12/2024,Sensory Evaluation,Minor,Low,Investigation Launched
+675,Cheese,BrandA,Condiments,Coloring agents,6/13/2024,Chemical Analysis,Minor,High,Warning Issued
+676,Yogurt,BrandC,Beverages,Chalk,2/16/2024,Chemical Analysis,Severe,Low,Fine Imposed
+677,Yogurt,BrandD,Bakery,Artificial sweeteners,3/9/2024,Microbiological Analysis,Severe,Low,Investigation Launched
+678,Bread,BrandA,Condiments,Water,1/16/2024,Sensory Evaluation,Moderate,Medium,Fine Imposed
+679,Butter,BrandC,Condiments,Melamine,2/12/2024,Spectroscopy,Severe,High,Investigation Launched
+680,Bread,BrandD,Meat,Water,5/11/2024,Chemical Analysis,Severe,Low,Warning Issued
+681,Bread,BrandC,Condiments,Coloring agents,1/28/2024,Microbiological Analysis,Severe,Medium,Warning Issued
+682,Milk,BrandC,Dairy,Coloring agents,1/30/2024,Chemical Analysis,Moderate,High,Warning Issued
+683,Juice,BrandD,Bakery,Artificial sweeteners,5/3/2024,Microbiological Analysis,Severe,Low,Fine Imposed
+684,Wine,BrandC,Bakery,Water,4/18/2024,Sensory Evaluation,Minor,Medium,Warning Issued
+685,Juice,BrandB,Bakery,Chalk,1/10/2024,Sensory Evaluation,Severe,Medium,Investigation Launched
+686,Chicken,BrandB,Dairy,Water,5/26/2024,Chemical Analysis,Severe,Low,Fine Imposed
+687,Beef,BrandC,Bakery,Chalk,2/8/2024,Sensory Evaluation,Minor,Low,Warning Issued
+688,Juice,BrandC,Meat,Melamine,2/25/2024,Spectroscopy,Severe,High,Product Recall
+689,Beef,BrandE,Dairy,Melamine,3/1/2024,Chemical Analysis,Severe,Medium,Investigation Launched
+690,Cheese,BrandB,Bakery,Coloring agents,4/16/2024,Chemical Analysis,Severe,Low,Warning Issued
+691,Honey,BrandC,Bakery,Melamine,1/15/2024,Microbiological Analysis,Moderate,Medium,Warning Issued
+692,Wine,BrandD,Beverages,Artificial sweeteners,3/1/2024,Microbiological Analysis,Moderate,Medium,Fine Imposed
+693,Wine,BrandA,Dairy,Chalk,5/4/2024,Microbiological Analysis,Severe,Medium,Product Recall
+694,Bread,BrandB,Dairy,Coloring agents,6/25/2024,Sensory Evaluation,Moderate,Low,Fine Imposed
+695,Wine,BrandD,Beverages,Melamine,2/27/2024,Sensory Evaluation,Moderate,High,Investigation Launched
+696,Yogurt,BrandD,Dairy,Water,4/9/2024,Microbiological Analysis,Severe,Medium,Warning Issued
+697,Juice,BrandD,Bakery,Artificial sweeteners,3/7/2024,Spectroscopy,Severe,High,Investigation Launched
+698,Yogurt,BrandD,Bakery,Chalk,5/8/2024,Spectroscopy,Moderate,Low,Fine Imposed
+699,Beef,BrandC,Bakery,Water,5/13/2024,Sensory Evaluation,Severe,Medium,Fine Imposed
+700,Chicken,BrandA,Meat,Coloring agents,5/10/2024,Microbiological Analysis,Minor,Low,Fine Imposed
+701,Yogurt,BrandB,Bakery,Chalk,4/26/2024,Sensory Evaluation,Moderate,Medium,Investigation Launched
+702,Chicken,BrandC,Condiments,Chalk,5/23/2024,Microbiological Analysis,Minor,High,Warning Issued
+703,Honey,BrandA,Condiments,Artificial sweeteners,1/9/2024,Sensory Evaluation,Moderate,Low,Product Recall
+704,Beef,BrandB,Beverages,Water,4/8/2024,Sensory Evaluation,Minor,Low,Fine Imposed
+705,Butter,BrandA,Condiments,Water,1/21/2024,Chemical Analysis,Minor,High,Product Recall
+706,Chicken,BrandE,Bakery,Artificial sweeteners,2/5/2024,Chemical Analysis,Minor,High,Product Recall
+707,Cheese,BrandD,Dairy,Artificial sweeteners,6/2/2024,Microbiological Analysis,Minor,High,Fine Imposed
+708,Honey,BrandD,Bakery,Chalk,1/3/2024,Microbiological Analysis,Minor,Low,Investigation Launched
+709,Juice,BrandC,Condiments,Chalk,1/31/2024,Spectroscopy,Minor,Medium,Product Recall
+710,Yogurt,BrandE,Bakery,Coloring agents,2/24/2024,Microbiological Analysis,Moderate,Medium,Product Recall
+711,Cheese,BrandE,Meat,Water,4/26/2024,Chemical Analysis,Severe,High,Product Recall
+712,Yogurt,BrandB,Bakery,Chalk,4/5/2024,Spectroscopy,Severe,Low,Product Recall
+713,Milk,BrandC,Bakery,Chalk,5/31/2024,Spectroscopy,Minor,Low,Investigation Launched
+714,Milk,BrandE,Bakery,Water,2/8/2024,Sensory Evaluation,Minor,Low,Fine Imposed
+715,Beef,BrandC,Dairy,Artificial sweeteners,5/24/2024,Microbiological Analysis,Severe,Medium,Fine Imposed
+716,Cheese,BrandB,Condiments,Coloring agents,6/19/2024,Microbiological Analysis,Severe,Medium,Warning Issued
+717,Bread,BrandB,Condiments,Coloring agents,6/5/2024,Chemical Analysis,Severe,Low,Fine Imposed
+718,Juice,BrandE,Beverages,Artificial sweeteners,3/27/2024,Chemical Analysis,Moderate,High,Investigation Launched
+719,Bread,BrandA,Beverages,Melamine,4/24/2024,Sensory Evaluation,Minor,Low,Product Recall
+720,Chicken,BrandB,Dairy,Coloring agents,1/11/2024,Microbiological Analysis,Moderate,Low,Investigation Launched
+721,Juice,BrandB,Condiments,Melamine,2/1/2024,Spectroscopy,Moderate,Low,Warning Issued
+722,Milk,BrandE,Dairy,Water,5/6/2024,Chemical Analysis,Severe,High,Fine Imposed
+723,Butter,BrandC,Meat,Water,2/9/2024,Spectroscopy,Moderate,High,Warning Issued
+724,Bread,BrandA,Beverages,Chalk,4/1/2024,Sensory Evaluation,Severe,High,Warning Issued
+725,Beef,BrandB,Dairy,Water,5/28/2024,Sensory Evaluation,Moderate,Medium,Investigation Launched
+726,Chicken,BrandC,Condiments,Coloring agents,4/7/2024,Spectroscopy,Moderate,Low,Investigation Launched
+727,Yogurt,BrandE,Dairy,Coloring agents,4/9/2024,Sensory Evaluation,Moderate,High,Warning Issued
+728,Bread,BrandE,Beverages,Artificial sweeteners,2/28/2024,Sensory Evaluation,Minor,Medium,Warning Issued
+729,Milk,BrandB,Dairy,Water,3/22/2024,Spectroscopy,Severe,Low,Fine Imposed
+730,Chicken,BrandC,Beverages,Coloring agents,1/9/2024,Sensory Evaluation,Minor,Medium,Fine Imposed
+731,Beef,BrandC,Bakery,Water,5/17/2024,Sensory Evaluation,Severe,Medium,Investigation Launched
+732,Juice,BrandA,Condiments,Chalk,6/4/2024,Microbiological Analysis,Moderate,Medium,Investigation Launched
+733,Honey,BrandE,Meat,Chalk,3/1/2024,Chemical Analysis,Severe,High,Investigation Launched
+734,Chicken,BrandA,Bakery,Artificial sweeteners,4/1/2024,Microbiological Analysis,Minor,Medium,Fine Imposed
+735,Yogurt,BrandC,Dairy,Chalk,2/23/2024,Microbiological Analysis,Severe,Low,Investigation Launched
+736,Chicken,BrandA,Bakery,Artificial sweeteners,5/25/2024,Sensory Evaluation,Moderate,High,Investigation Launched
+737,Cheese,BrandB,Dairy,Artificial sweeteners,5/6/2024,Chemical Analysis,Moderate,High,Investigation Launched
+738,Yogurt,BrandE,Meat,Coloring agents,3/28/2024,Chemical Analysis,Severe,Low,Fine Imposed
+739,Juice,BrandC,Meat,Coloring agents,1/23/2024,Chemical Analysis,Severe,High,Investigation Launched
+740,Wine,BrandE,Beverages,Water,4/9/2024,Microbiological Analysis,Moderate,High,Product Recall
+741,Butter,BrandD,Dairy,Melamine,2/7/2024,Chemical Analysis,Minor,Low,Warning Issued
+742,Milk,BrandA,Meat,Artificial sweeteners,5/7/2024,Microbiological Analysis,Severe,Low,Warning Issued
+743,Juice,BrandA,Meat,Water,6/27/2024,Chemical Analysis,Minor,Medium,Fine Imposed
+744,Butter,BrandA,Beverages,Artificial sweeteners,2/24/2024,Spectroscopy,Minor,Low,Fine Imposed
+745,Juice,BrandD,Meat,Artificial sweeteners,1/9/2024,Microbiological Analysis,Minor,Low,Investigation Launched
+746,Butter,BrandC,Meat,Chalk,6/30/2024,Sensory Evaluation,Moderate,Low,Product Recall
+747,Cheese,BrandE,Meat,Artificial sweeteners,5/20/2024,Sensory Evaluation,Moderate,Low,Investigation Launched
+748,Chicken,BrandB,Condiments,Coloring agents,2/2/2024,Sensory Evaluation,Minor,Medium,Warning Issued
+749,Bread,BrandB,Beverages,Melamine,6/4/2024,Sensory Evaluation,Minor,Low,Warning Issued
+750,Juice,BrandC,Meat,Chalk,6/3/2024,Microbiological Analysis,Moderate,High,Investigation Launched
+751,Cheese,BrandA,Meat,Coloring agents,1/13/2024,Chemical Analysis,Moderate,Medium,Product Recall
+752,Wine,BrandD,Meat,Artificial sweeteners,5/12/2024,Sensory Evaluation,Minor,Low,Investigation Launched
+753,Honey,BrandB,Bakery,Melamine,5/26/2024,Chemical Analysis,Moderate,Low,Fine Imposed
+754,Beef,BrandD,Bakery,Coloring agents,3/22/2024,Spectroscopy,Minor,Medium,Investigation Launched
+755,Chicken,BrandE,Dairy,Water,1/12/2024,Spectroscopy,Severe,High,Product Recall
+756,Wine,BrandB,Dairy,Coloring agents,5/22/2024,Spectroscopy,Moderate,High,Fine Imposed
+757,Honey,BrandA,Meat,Artificial sweeteners,3/26/2024,Microbiological Analysis,Moderate,Medium,Product Recall
+758,Cheese,BrandA,Beverages,Water,3/18/2024,Chemical Analysis,Severe,Medium,Investigation Launched
+759,Bread,BrandE,Dairy,Artificial sweeteners,3/5/2024,Spectroscopy,Severe,High,Fine Imposed
+760,Butter,BrandC,Meat,Water,4/16/2024,Sensory Evaluation,Severe,Medium,Fine Imposed
+761,Butter,BrandC,Condiments,Water,3/19/2024,Spectroscopy,Severe,Medium,Investigation Launched
+762,Beef,BrandB,Dairy,Artificial sweeteners,2/10/2024,Chemical Analysis,Moderate,Low,Fine Imposed
+763,Chicken,BrandA,Condiments,Melamine,4/15/2024,Sensory Evaluation,Minor,Low,Product Recall
+764,Bread,BrandC,Condiments,Coloring agents,6/26/2024,Sensory Evaluation,Moderate,Low,Fine Imposed
+765,Honey,BrandC,Bakery,Coloring agents,5/16/2024,Sensory Evaluation,Minor,Medium,Product Recall
+766,Juice,BrandC,Bakery,Artificial sweeteners,4/23/2024,Spectroscopy,Minor,Medium,Product Recall
+767,Beef,BrandD,Beverages,Coloring agents,6/19/2024,Microbiological Analysis,Moderate,Low,Fine Imposed
+768,Juice,BrandE,Beverages,Chalk,4/19/2024,Spectroscopy,Severe,High,Product Recall
+769,Milk,BrandC,Bakery,Water,2/18/2024,Microbiological Analysis,Minor,Medium,Product Recall
+770,Yogurt,BrandE,Condiments,Coloring agents,5/24/2024,Microbiological Analysis,Minor,Low,Fine Imposed
+771,Honey,BrandA,Bakery,Artificial sweeteners,3/28/2024,Sensory Evaluation,Minor,Low,Product Recall
+772,Chicken,BrandE,Dairy,Water,5/8/2024,Chemical Analysis,Moderate,High,Investigation Launched
+773,Wine,BrandD,Bakery,Melamine,1/15/2024,Chemical Analysis,Moderate,High,Product Recall
+774,Bread,BrandD,Meat,Melamine,4/23/2024,Sensory Evaluation,Minor,Medium,Warning Issued
+775,Milk,BrandB,Meat,Melamine,2/19/2024,Spectroscopy,Severe,High,Warning Issued
+776,Wine,BrandB,Beverages,Coloring agents,2/20/2024,Sensory Evaluation,Minor,Medium,Warning Issued
+777,Cheese,BrandD,Bakery,Melamine,2/15/2024,Spectroscopy,Severe,High,Investigation Launched
+778,Butter,BrandB,Bakery,Artificial sweeteners,6/23/2024,Chemical Analysis,Minor,Low,Fine Imposed
+779,Butter,BrandA,Beverages,Coloring agents,1/9/2024,Chemical Analysis,Minor,Low,Investigation Launched
+780,Juice,BrandC,Meat,Melamine,2/28/2024,Spectroscopy,Minor,High,Investigation Launched
+781,Cheese,BrandD,Beverages,Coloring agents,6/12/2024,Microbiological Analysis,Minor,High,Fine Imposed
+782,Honey,BrandE,Meat,Water,3/30/2024,Sensory Evaluation,Severe,High,Fine Imposed
+783,Yogurt,BrandA,Beverages,Chalk,5/6/2024,Chemical Analysis,Moderate,High,Fine Imposed
+784,Yogurt,BrandC,Dairy,Chalk,6/18/2024,Spectroscopy,Severe,Low,Fine Imposed
+785,Chicken,BrandB,Dairy,Coloring agents,4/21/2024,Chemical Analysis,Minor,Low,Investigation Launched
+786,Juice,BrandD,Dairy,Chalk,2/17/2024,Sensory Evaluation,Minor,High,Investigation Launched
+787,Cheese,BrandD,Condiments,Water,4/30/2024,Sensory Evaluation,Severe,Medium,Fine Imposed
+788,Butter,BrandE,Beverages,Artificial sweeteners,1/23/2024,Sensory Evaluation,Severe,Low,Investigation Launched
+789,Chicken,BrandE,Dairy,Melamine,6/25/2024,Microbiological Analysis,Severe,Medium,Product Recall
+790,Butter,BrandA,Beverages,Coloring agents,4/1/2024,Sensory Evaluation,Minor,Medium,Investigation Launched
+791,Yogurt,BrandA,Condiments,Artificial sweeteners,6/4/2024,Spectroscopy,Moderate,Medium,Warning Issued
+792,Juice,BrandA,Condiments,Coloring agents,5/17/2024,Chemical Analysis,Minor,High,Warning Issued
+793,Cheese,BrandA,Dairy,Water,6/13/2024,Sensory Evaluation,Minor,High,Product Recall
+794,Bread,BrandA,Dairy,Melamine,5/22/2024,Chemical Analysis,Minor,High,Investigation Launched
+795,Milk,BrandE,Meat,Chalk,3/6/2024,Chemical Analysis,Minor,High,Fine Imposed
+796,Milk,BrandC,Meat,Melamine,4/15/2024,Chemical Analysis,Moderate,Medium,Product Recall
+797,Bread,BrandB,Dairy,Artificial sweeteners,4/5/2024,Chemical Analysis,Severe,High,Warning Issued
+798,Yogurt,BrandD,Meat,Melamine,4/17/2024,Chemical Analysis,Severe,Medium,Fine Imposed
+799,Chicken,BrandC,Dairy,Artificial sweeteners,3/24/2024,Sensory Evaluation,Moderate,Low,Investigation Launched
+800,Wine,BrandD,Beverages,Melamine,1/12/2024,Spectroscopy,Severe,Medium,Investigation Launched
+801,Honey,BrandA,Beverages,Water,1/11/2024,Chemical Analysis,Moderate,Medium,Product Recall
+802,Cheese,BrandA,Beverages,Chalk,5/10/2024,Spectroscopy,Moderate,Medium,Product Recall
+803,Butter,BrandA,Meat,Chalk,2/28/2024,Microbiological Analysis,Moderate,High,Warning Issued
+804,Wine,BrandA,Condiments,Water,1/12/2024,Microbiological Analysis,Minor,Medium,Product Recall
+805,Honey,BrandA,Dairy,Water,3/28/2024,Sensory Evaluation,Moderate,Low,Warning Issued
+806,Milk,BrandD,Meat,Water,6/14/2024,Chemical Analysis,Moderate,Medium,Investigation Launched
+807,Chicken,BrandB,Meat,Coloring agents,5/1/2024,Sensory Evaluation,Severe,Medium,Fine Imposed
+808,Chicken,BrandA,Beverages,Melamine,6/12/2024,Sensory Evaluation,Minor,Medium,Warning Issued
+809,Yogurt,BrandB,Dairy,Chalk,3/10/2024,Spectroscopy,Severe,High,Investigation Launched
+810,Chicken,BrandB,Beverages,Chalk,4/5/2024,Microbiological Analysis,Severe,Low,Fine Imposed
+811,Honey,BrandE,Bakery,Melamine,5/20/2024,Spectroscopy,Severe,High,Warning Issued
+812,Juice,BrandD,Meat,Coloring agents,2/20/2024,Sensory Evaluation,Moderate,Low,Warning Issued
+813,Juice,BrandE,Dairy,Artificial sweeteners,4/15/2024,Sensory Evaluation,Minor,Low,Warning Issued
+814,Milk,BrandC,Meat,Coloring agents,1/21/2024,Chemical Analysis,Severe,Low,Warning Issued
+815,Wine,BrandA,Bakery,Artificial sweeteners,3/7/2024,Microbiological Analysis,Moderate,Medium,Warning Issued
+816,Chicken,BrandA,Condiments,Chalk,4/21/2024,Chemical Analysis,Minor,High,Product Recall
+817,Bread,BrandB,Dairy,Melamine,3/16/2024,Microbiological Analysis,Minor,Low,Warning Issued
+818,Chicken,BrandE,Meat,Coloring agents,2/13/2024,Chemical Analysis,Severe,High,Investigation Launched
+819,Chicken,BrandD,Beverages,Water,5/10/2024,Microbiological Analysis,Moderate,Medium,Investigation Launched
+820,Beef,BrandA,Dairy,Artificial sweeteners,2/18/2024,Chemical Analysis,Severe,Medium,Product Recall
+821,Wine,BrandD,Beverages,Coloring agents,6/4/2024,Microbiological Analysis,Severe,Low,Product Recall
+822,Yogurt,BrandC,Meat,Coloring agents,1/29/2024,Microbiological Analysis,Minor,Medium,Product Recall
+823,Bread,BrandB,Condiments,Coloring agents,6/3/2024,Sensory Evaluation,Moderate,Medium,Product Recall
+824,Wine,BrandC,Bakery,Coloring agents,5/7/2024,Sensory Evaluation,Minor,High,Fine Imposed
+825,Honey,BrandD,Condiments,Melamine,4/9/2024,Microbiological Analysis,Minor,Medium,Fine Imposed
+826,Wine,BrandE,Beverages,Coloring agents,1/4/2024,Sensory Evaluation,Minor,Medium,Product Recall
+827,Juice,BrandA,Beverages,Chalk,1/31/2024,Chemical Analysis,Minor,High,Product Recall
+828,Beef,BrandC,Condiments,Artificial sweeteners,3/10/2024,Microbiological Analysis,Severe,High,Fine Imposed
+829,Butter,BrandA,Bakery,Coloring agents,5/4/2024,Sensory Evaluation,Severe,High,Warning Issued
+830,Juice,BrandA,Meat,Melamine,6/18/2024,Microbiological Analysis,Minor,Medium,Product Recall
+831,Yogurt,BrandD,Meat,Coloring agents,2/5/2024,Spectroscopy,Severe,Medium,Investigation Launched
+832,Chicken,BrandD,Condiments,Chalk,6/3/2024,Sensory Evaluation,Minor,High,Product Recall
+833,Cheese,BrandD,Meat,Chalk,1/12/2024,Microbiological Analysis,Moderate,Medium,Investigation Launched
+834,Juice,BrandC,Meat,Melamine,1/5/2024,Spectroscopy,Moderate,High,Fine Imposed
+835,Chicken,BrandB,Condiments,Water,6/18/2024,Sensory Evaluation,Severe,Low,Product Recall
+836,Bread,BrandC,Meat,Chalk,5/27/2024,Sensory Evaluation,Severe,High,Investigation Launched
+837,Beef,BrandE,Meat,Artificial sweeteners,2/28/2024,Spectroscopy,Severe,High,Investigation Launched
+838,Yogurt,BrandC,Meat,Artificial sweeteners,5/12/2024,Spectroscopy,Severe,Medium,Fine Imposed
+839,Bread,BrandA,Beverages,Artificial sweeteners,4/2/2024,Sensory Evaluation,Severe,High,Product Recall
+840,Chicken,BrandE,Bakery,Melamine,4/14/2024,Chemical Analysis,Minor,High,Warning Issued
+841,Yogurt,BrandA,Beverages,Coloring agents,6/15/2024,Chemical Analysis,Severe,High,Fine Imposed
+842,Bread,BrandA,Condiments,Coloring agents,6/1/2024,Microbiological Analysis,Minor,Low,Product Recall
+843,Chicken,BrandA,Meat,Chalk,1/7/2024,Spectroscopy,Severe,Medium,Fine Imposed
+844,Wine,BrandE,Meat,Water,1/17/2024,Spectroscopy,Minor,Low,Product Recall
+845,Milk,BrandD,Meat,Chalk,3/21/2024,Microbiological Analysis,Severe,High,Fine Imposed
+846,Yogurt,BrandD,Dairy,Artificial sweeteners,4/16/2024,Chemical Analysis,Moderate,High,Product Recall
+847,Beef,BrandA,Condiments,Coloring agents,2/12/2024,Spectroscopy,Severe,High,Fine Imposed
+848,Bread,BrandA,Dairy,Water,6/3/2024,Chemical Analysis,Minor,Medium,Fine Imposed
+849,Beef,BrandC,Bakery,Artificial sweeteners,5/19/2024,Sensory Evaluation,Severe,High,Warning Issued
+850,Cheese,BrandB,Bakery,Coloring agents,1/8/2024,Spectroscopy,Moderate,Medium,Product Recall
+851,Butter,BrandB,Beverages,Artificial sweeteners,2/28/2024,Chemical Analysis,Severe,Medium,Fine Imposed
+852,Bread,BrandA,Bakery,Artificial sweeteners,1/6/2024,Chemical Analysis,Minor,Low,Warning Issued
+853,Wine,BrandB,Dairy,Chalk,2/5/2024,Sensory Evaluation,Severe,Low,Investigation Launched
+854,Butter,BrandD,Bakery,Chalk,5/8/2024,Chemical Analysis,Minor,Low,Product Recall
+855,Juice,BrandD,Beverages,Artificial sweeteners,5/4/2024,Spectroscopy,Moderate,High,Fine Imposed
+856,Beef,BrandE,Condiments,Artificial sweeteners,1/4/2024,Spectroscopy,Moderate,Low,Investigation Launched
+857,Wine,BrandE,Beverages,Melamine,1/10/2024,Spectroscopy,Severe,Medium,Warning Issued
+858,Beef,BrandD,Meat,Melamine,1/14/2024,Microbiological Analysis,Minor,Low,Product Recall
+859,Bread,BrandC,Dairy,Artificial sweeteners,3/19/2024,Microbiological Analysis,Severe,High,Investigation Launched
+860,Beef,BrandD,Bakery,Coloring agents,4/7/2024,Spectroscopy,Minor,Low,Fine Imposed
+861,Honey,BrandA,Bakery,Chalk,6/23/2024,Microbiological Analysis,Moderate,High,Product Recall
+862,Bread,BrandA,Condiments,Chalk,3/18/2024,Microbiological Analysis,Severe,Medium,Product Recall
+863,Butter,BrandD,Dairy,Water,1/19/2024,Sensory Evaluation,Minor,Low,Fine Imposed
+864,Wine,BrandB,Meat,Artificial sweeteners,5/22/2024,Spectroscopy,Minor,High,Investigation Launched
+865,Honey,BrandD,Condiments,Water,5/18/2024,Chemical Analysis,Minor,Low,Fine Imposed
+866,Butter,BrandD,Bakery,Water,6/26/2024,Microbiological Analysis,Moderate,Low,Product Recall
+867,Milk,BrandE,Condiments,Chalk,4/6/2024,Chemical Analysis,Severe,Low,Fine Imposed
+868,Chicken,BrandE,Bakery,Chalk,3/27/2024,Chemical Analysis,Severe,Low,Product Recall
+869,Milk,BrandE,Dairy,Chalk,5/2/2024,Spectroscopy,Moderate,Low,Investigation Launched
+870,Wine,BrandB,Condiments,Artificial sweeteners,3/13/2024,Microbiological Analysis,Minor,High,Warning Issued
+871,Beef,BrandE,Bakery,Water,5/24/2024,Sensory Evaluation,Moderate,Low,Investigation Launched
+872,Chicken,BrandC,Meat,Chalk,6/27/2024,Spectroscopy,Severe,Medium,Product Recall
+873,Milk,BrandC,Condiments,Water,6/25/2024,Sensory Evaluation,Minor,High,Investigation Launched
+874,Chicken,BrandA,Beverages,Coloring agents,2/17/2024,Chemical Analysis,Severe,High,Investigation Launched
+875,Butter,BrandD,Dairy,Water,4/16/2024,Sensory Evaluation,Severe,High,Warning Issued
+876,Yogurt,BrandC,Dairy,Coloring agents,1/11/2024,Spectroscopy,Severe,Medium,Product Recall
+877,Wine,BrandC,Meat,Chalk,6/2/2024,Microbiological Analysis,Minor,Medium,Investigation Launched
+878,Juice,BrandC,Condiments,Chalk,5/22/2024,Sensory Evaluation,Minor,Low,Fine Imposed
+879,Yogurt,BrandB,Bakery,Coloring agents,1/15/2024,Spectroscopy,Severe,Medium,Investigation Launched
+880,Milk,BrandA,Bakery,Water,5/21/2024,Chemical Analysis,Moderate,Low,Fine Imposed
+881,Butter,BrandA,Beverages,Water,3/29/2024,Microbiological Analysis,Minor,High,Product Recall
+882,Wine,BrandC,Bakery,Melamine,5/24/2024,Microbiological Analysis,Minor,High,Investigation Launched
+883,Butter,BrandA,Bakery,Chalk,6/28/2024,Spectroscopy,Minor,Medium,Product Recall
+884,Milk,BrandD,Dairy,Water,3/26/2024,Spectroscopy,Moderate,Medium,Product Recall
+885,Juice,BrandA,Meat,Water,1/5/2024,Sensory Evaluation,Minor,High,Fine Imposed
+886,Milk,BrandB,Meat,Water,2/15/2024,Chemical Analysis,Moderate,Low,Warning Issued
+887,Wine,BrandD,Dairy,Coloring agents,2/12/2024,Microbiological Analysis,Moderate,Medium,Investigation Launched
+888,Honey,BrandC,Condiments,Water,2/16/2024,Sensory Evaluation,Moderate,High,Investigation Launched
+889,Chicken,BrandB,Condiments,Artificial sweeteners,1/6/2024,Microbiological Analysis,Moderate,Medium,Investigation Launched
+890,Chicken,BrandC,Dairy,Coloring agents,4/23/2024,Spectroscopy,Moderate,High,Product Recall
+891,Butter,BrandB,Condiments,Coloring agents,6/15/2024,Microbiological Analysis,Moderate,Low,Product Recall
+892,Wine,BrandB,Condiments,Water,1/23/2024,Sensory Evaluation,Moderate,Low,Fine Imposed
+893,Wine,BrandA,Dairy,Coloring agents,1/29/2024,Chemical Analysis,Minor,Low,Warning Issued
+894,Milk,BrandE,Meat,Coloring agents,5/26/2024,Spectroscopy,Minor,Low,Investigation Launched
+895,Chicken,BrandD,Dairy,Artificial sweeteners,3/6/2024,Sensory Evaluation,Minor,Medium,Investigation Launched
+896,Bread,BrandA,Meat,Water,6/19/2024,Microbiological Analysis,Moderate,Low,Product Recall
+897,Juice,BrandE,Condiments,Melamine,4/24/2024,Microbiological Analysis,Moderate,Low,Investigation Launched
+898,Wine,BrandC,Beverages,Coloring agents,1/4/2024,Microbiological Analysis,Severe,High,Warning Issued
+899,Chicken,BrandB,Beverages,Chalk,2/29/2024,Sensory Evaluation,Minor,Medium,Product Recall
+900,Wine,BrandC,Meat,Melamine,4/21/2024,Spectroscopy,Moderate,High,Investigation Launched
+901,Bread,BrandA,Meat,Water,3/20/2024,Chemical Analysis,Minor,High,Product Recall
+902,Wine,BrandD,Bakery,Chalk,2/6/2024,Microbiological Analysis,Moderate,Medium,Product Recall
+903,Juice,BrandD,Condiments,Water,1/16/2024,Microbiological Analysis,Severe,Medium,Warning Issued
+904,Juice,BrandD,Beverages,Coloring agents,3/17/2024,Spectroscopy,Moderate,Medium,Fine Imposed
+905,Chicken,BrandA,Bakery,Melamine,3/19/2024,Sensory Evaluation,Minor,High,Warning Issued
+906,Milk,BrandA,Meat,Chalk,4/13/2024,Microbiological Analysis,Moderate,Low,Investigation Launched
+907,Milk,BrandA,Dairy,Melamine,2/8/2024,Microbiological Analysis,Severe,Medium,Fine Imposed
+908,Wine,BrandE,Condiments,Artificial sweeteners,4/8/2024,Chemical Analysis,Severe,Low,Fine Imposed
+909,Milk,BrandA,Meat,Water,5/2/2024,Sensory Evaluation,Moderate,Low,Product Recall
+910,Beef,BrandD,Meat,Water,6/3/2024,Microbiological Analysis,Severe,High,Product Recall
+911,Bread,BrandE,Condiments,Coloring agents,3/26/2024,Spectroscopy,Moderate,Low,Investigation Launched
+912,Cheese,BrandC,Bakery,Melamine,6/2/2024,Sensory Evaluation,Moderate,High,Fine Imposed
+913,Milk,BrandE,Beverages,Artificial sweeteners,2/5/2024,Sensory Evaluation,Minor,Low,Investigation Launched
+914,Cheese,BrandD,Bakery,Melamine,5/19/2024,Microbiological Analysis,Minor,Medium,Product Recall
+915,Honey,BrandD,Meat,Artificial sweeteners,2/15/2024,Chemical Analysis,Severe,Low,Product Recall
+916,Beef,BrandB,Dairy,Artificial sweeteners,6/4/2024,Microbiological Analysis,Severe,Medium,Investigation Launched
+917,Honey,BrandA,Beverages,Artificial sweeteners,1/30/2024,Spectroscopy,Severe,High,Warning Issued
+918,Chicken,BrandE,Beverages,Melamine,2/4/2024,Spectroscopy,Minor,Medium,Warning Issued
+919,Yogurt,BrandB,Beverages,Water,4/20/2024,Chemical Analysis,Minor,High,Warning Issued
+920,Honey,BrandA,Bakery,Melamine,4/27/2024,Spectroscopy,Moderate,Medium,Product Recall
+921,Beef,BrandB,Meat,Chalk,6/15/2024,Chemical Analysis,Moderate,Medium,Warning Issued
+922,Chicken,BrandB,Bakery,Chalk,3/25/2024,Chemical Analysis,Moderate,High,Product Recall
+923,Beef,BrandE,Dairy,Chalk,3/26/2024,Spectroscopy,Moderate,High,Investigation Launched
+924,Honey,BrandC,Condiments,Artificial sweeteners,1/17/2024,Sensory Evaluation,Severe,Medium,Product Recall
+925,Chicken,BrandD,Meat,Water,3/1/2024,Chemical Analysis,Minor,Low,Warning Issued
+926,Cheese,BrandC,Beverages,Chalk,1/8/2024,Sensory Evaluation,Minor,High,Product Recall
+927,Honey,BrandE,Beverages,Chalk,6/13/2024,Chemical Analysis,Severe,Medium,Investigation Launched
+928,Beef,BrandC,Bakery,Water,3/4/2024,Sensory Evaluation,Moderate,Low,Investigation Launched
+929,Yogurt,BrandE,Condiments,Water,5/9/2024,Microbiological Analysis,Minor,High,Product Recall
+930,Yogurt,BrandC,Dairy,Water,3/26/2024,Microbiological Analysis,Moderate,Low,Investigation Launched
+931,Milk,BrandE,Meat,Coloring agents,3/26/2024,Spectroscopy,Moderate,Medium,Warning Issued
+932,Chicken,BrandD,Dairy,Water,4/29/2024,Sensory Evaluation,Moderate,High,Fine Imposed
+933,Yogurt,BrandD,Condiments,Water,5/26/2024,Chemical Analysis,Moderate,Low,Product Recall
+934,Chicken,BrandA,Bakery,Coloring agents,1/24/2024,Chemical Analysis,Moderate,Low,Product Recall
+935,Yogurt,BrandA,Bakery,Chalk,6/12/2024,Chemical Analysis,Moderate,Medium,Fine Imposed
+936,Yogurt,BrandD,Bakery,Artificial sweeteners,4/16/2024,Chemical Analysis,Minor,Medium,Fine Imposed
+937,Juice,BrandA,Condiments,Chalk,3/29/2024,Sensory Evaluation,Minor,Low,Investigation Launched
+938,Wine,BrandC,Beverages,Coloring agents,5/5/2024,Sensory Evaluation,Severe,Low,Investigation Launched
+939,Juice,BrandC,Beverages,Water,5/8/2024,Microbiological Analysis,Severe,High,Product Recall
+940,Chicken,BrandC,Bakery,Water,2/14/2024,Microbiological Analysis,Minor,Medium,Warning Issued
+941,Milk,BrandD,Bakery,Coloring agents,1/7/2024,Microbiological Analysis,Moderate,High,Investigation Launched
+942,Cheese,BrandB,Meat,Melamine,1/11/2024,Chemical Analysis,Moderate,Low,Warning Issued
+943,Chicken,BrandD,Dairy,Coloring agents,6/6/2024,Chemical Analysis,Moderate,Low,Product Recall
+944,Honey,BrandE,Meat,Water,6/17/2024,Microbiological Analysis,Minor,High,Product Recall
+945,Beef,BrandA,Meat,Melamine,1/10/2024,Microbiological Analysis,Minor,Medium,Fine Imposed
+946,Bread,BrandD,Dairy,Water,5/8/2024,Chemical Analysis,Minor,Low,Fine Imposed
+947,Milk,BrandB,Bakery,Chalk,3/1/2024,Chemical Analysis,Moderate,High,Fine Imposed
+948,Cheese,BrandE,Beverages,Artificial sweeteners,5/1/2024,Microbiological Analysis,Severe,High,Product Recall
+949,Cheese,BrandE,Bakery,Coloring agents,5/31/2024,Spectroscopy,Minor,High,Warning Issued
+950,Bread,BrandC,Dairy,Artificial sweeteners,5/27/2024,Microbiological Analysis,Minor,Low,Warning Issued
+951,Wine,BrandC,Beverages,Melamine,5/2/2024,Chemical Analysis,Moderate,Medium,Warning Issued
+952,Honey,BrandC,Bakery,Artificial sweeteners,2/27/2024,Spectroscopy,Minor,Medium,Investigation Launched
+953,Milk,BrandE,Condiments,Artificial sweeteners,1/8/2024,Sensory Evaluation,Minor,Low,Warning Issued
+954,Cheese,BrandD,Condiments,Water,6/23/2024,Sensory Evaluation,Severe,High,Product Recall
+955,Cheese,BrandA,Meat,Chalk,5/18/2024,Spectroscopy,Moderate,Medium,Product Recall
+956,Chicken,BrandD,Dairy,Water,4/20/2024,Sensory Evaluation,Moderate,Medium,Warning Issued
+957,Butter,BrandC,Meat,Water,2/28/2024,Spectroscopy,Moderate,High,Product Recall
+958,Beef,BrandE,Bakery,Artificial sweeteners,2/12/2024,Sensory Evaluation,Severe,High,Warning Issued
+959,Honey,BrandE,Dairy,Chalk,5/7/2024,Chemical Analysis,Minor,Medium,Fine Imposed
+960,Beef,BrandB,Meat,Melamine,1/2/2024,Spectroscopy,Severe,Low,Fine Imposed
+961,Juice,BrandA,Condiments,Artificial sweeteners,5/21/2024,Chemical Analysis,Severe,Medium,Fine Imposed
+962,Beef,BrandA,Dairy,Water,2/2/2024,Microbiological Analysis,Moderate,High,Warning Issued
+963,Bread,BrandA,Beverages,Water,4/19/2024,Spectroscopy,Minor,Medium,Product Recall
+964,Wine,BrandE,Beverages,Chalk,4/25/2024,Microbiological Analysis,Severe,High,Warning Issued
+965,Chicken,BrandD,Dairy,Chalk,3/8/2024,Chemical Analysis,Moderate,Medium,Fine Imposed
+966,Yogurt,BrandB,Condiments,Chalk,5/31/2024,Spectroscopy,Severe,Low,Product Recall
+967,Milk,BrandB,Beverages,Artificial sweeteners,5/14/2024,Sensory Evaluation,Minor,High,Warning Issued
+968,Chicken,BrandB,Bakery,Melamine,5/31/2024,Chemical Analysis,Minor,High,Fine Imposed
+969,Bread,BrandD,Dairy,Coloring agents,2/12/2024,Microbiological Analysis,Severe,High,Fine Imposed
+970,Milk,BrandB,Meat,Chalk,3/10/2024,Chemical Analysis,Minor,High,Product Recall
+971,Juice,BrandA,Bakery,Coloring agents,1/2/2024,Microbiological Analysis,Moderate,Low,Fine Imposed
+972,Wine,BrandC,Dairy,Artificial sweeteners,4/26/2024,Chemical Analysis,Moderate,Medium,Investigation Launched
+973,Beef,BrandD,Meat,Melamine,1/27/2024,Microbiological Analysis,Severe,Medium,Product Recall
+974,Chicken,BrandD,Dairy,Coloring agents,4/7/2024,Sensory Evaluation,Moderate,Medium,Investigation Launched
+975,Cheese,BrandE,Condiments,Chalk,1/29/2024,Microbiological Analysis,Moderate,High,Investigation Launched
+976,Honey,BrandC,Dairy,Artificial sweeteners,1/17/2024,Microbiological Analysis,Minor,Medium,Fine Imposed
+977,Cheese,BrandE,Dairy,Artificial sweeteners,4/18/2024,Microbiological Analysis,Moderate,Low,Warning Issued
+978,Butter,BrandB,Beverages,Chalk,3/5/2024,Sensory Evaluation,Moderate,Medium,Warning Issued
+979,Butter,BrandE,Beverages,Water,3/5/2024,Chemical Analysis,Moderate,Low,Product Recall
+980,Wine,BrandA,Bakery,Melamine,2/23/2024,Microbiological Analysis,Moderate,Low,Investigation Launched
+981,Bread,BrandB,Condiments,Coloring agents,2/7/2024,Sensory Evaluation,Minor,Low,Product Recall
+982,Milk,BrandA,Meat,Chalk,4/25/2024,Sensory Evaluation,Minor,Medium,Product Recall
+983,Milk,BrandB,Meat,Artificial sweeteners,5/21/2024,Microbiological Analysis,Moderate,Low,Product Recall
+984,Cheese,BrandA,Condiments,Coloring agents,4/29/2024,Microbiological Analysis,Minor,Low,Investigation Launched
+985,Bread,BrandE,Condiments,Artificial sweeteners,6/19/2024,Microbiological Analysis,Severe,Medium,Product Recall
+986,Chicken,BrandA,Meat,Melamine,1/22/2024,Chemical Analysis,Severe,Low,Investigation Launched
+987,Bread,BrandE,Meat,Coloring agents,5/11/2024,Microbiological Analysis,Severe,High,Product Recall
+988,Juice,BrandC,Bakery,Coloring agents,3/26/2024,Sensory Evaluation,Minor,Low,Product Recall
+989,Yogurt,BrandB,Dairy,Melamine,3/19/2024,Chemical Analysis,Moderate,High,Warning Issued
+990,Juice,BrandD,Dairy,Artificial sweeteners,1/18/2024,Spectroscopy,Moderate,High,Fine Imposed
+991,Yogurt,BrandB,Bakery,Water,2/14/2024,Chemical Analysis,Minor,High,Warning Issued
+992,Honey,BrandE,Beverages,Coloring agents,5/28/2024,Sensory Evaluation,Moderate,High,Product Recall
+993,Chicken,BrandE,Meat,Chalk,3/20/2024,Chemical Analysis,Severe,Low,Product Recall
+994,Milk,BrandB,Dairy,Artificial sweeteners,3/23/2024,Microbiological Analysis,Severe,Low,Product Recall
+995,Juice,BrandB,Beverages,Coloring agents,1/12/2024,Microbiological Analysis,Severe,Medium,Warning Issued
+996,Butter,BrandD,Beverages,Artificial sweeteners,6/13/2024,Chemical Analysis,Minor,Medium,Fine Imposed
+997,Beef,BrandD,Beverages,Melamine,5/26/2024,Microbiological Analysis,Minor,Medium,Warning Issued
+998,Bread,BrandD,Dairy,Chalk,3/25/2024,Microbiological Analysis,Moderate,High,Fine Imposed
+999,Juice,BrandE,Beverages,Chalk,3/2/2024,Spectroscopy,Minor,High,Product Recall
+1000,Chicken,BrandC,Meat,Artificial sweeteners,5/27/2024,Spectroscopy,Minor,Low,Warning Issued
