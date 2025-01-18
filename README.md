@@ -13,3 +13,7 @@ The dataset includes:
 - Adulterants detected.
 - Severity levels of adulteration.
 - Health risks and actions taken.
+
+# Getting Started
+Clone this repository:
+git clone https://github.com/your-username/face-mask-detection.git  
