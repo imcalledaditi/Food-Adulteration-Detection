@@ -1,6 +1,8 @@
 # Detection of Food Adulteration Using Machine Learning
 This project addresses food safety by leveraging machine learning algorithms to detect food adulteration. The system uses classification models to identify adulterants in food products based on a dataset. It also evaluates the performance of various algorithms such as Random Forest, Logistic Regression, SVM, KNN, and Decision Trees.
 
+![Alt Text]("C:\Users\MOHAN\Downloads\Aditi only\SRM\projects\MLDA FOOD ADULTERATION\img.jpg")
+
 ## Features
 - Utilizes multiple machine learning models, including Random Forest, SVM, Logistic Regression, KNN, and Decision Trees, to detect adulteration.
 - Provides predictions on adulteration severity levels (Low, Medium, High).
