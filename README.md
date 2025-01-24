@@ -33,3 +33,9 @@ The dataset used in this project includes:
 3. Install dependencies:
    ```bash
    pip install -r requirements.txt
+### Machine Learning Models
+- Logistic Regression: Effective for binary and multi-class classification problems.
+- Support Vector Machine (SVM): Handles high-dimensional data and non-linear boundaries.
+- K-Nearest Neighbors (KNN): Simple algorithm based on proximity of data points.
+- Random Forest: Ensemble model providing robust predictions with feature importance analysis.
+- Decision Tree: Tree-based model for easy interpretability.
