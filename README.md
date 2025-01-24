@@ -37,5 +37,10 @@ The dataset used in this project includes:
 - Logistic Regression: Effective for binary and multi-class classification problems.
 - Support Vector Machine (SVM): Handles high-dimensional data and non-linear boundaries.
 - K-Nearest Neighbors (KNN): Simple algorithm based on proximity of data points.
-- Random Forest: Ensemble model providing robust predictions with feature importance analysis.
+- Random Forest: The ensemble model provides robust predictions with feature importance analysis.
 - Decision Tree: Tree-based model for easy interpretability.
+
+### Results
+- Best Model: Random Forest achieved the highest accuracy and reliability in detecting adulteration severity.
+- Performance Metrics: Models were evaluated using accuracy, precision, recall, and F1 score.
+- Visualization: Bar graphs and decision boundary plots were included to illustrate model outputs and data trends.
